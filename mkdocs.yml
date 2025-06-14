@@ -2,22 +2,50 @@ site_name: Larjam
 site_url: https://eom-jam.github.io/larjam/
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
 
 nav:
   - Início: index.md
-  - Fundamentos: fundamentos.md
-  - Teoria Nomial: teoria-nomial.md
-  - Glossário: glossario.md
-  - Práticas Jamistas: praticas.md
+  - Filosofia:
+      - Fundamentos: fundamentos.md
+      - Teoria Nomial: teoria-nomial.md
+      - Glossário: glossario.md
+  - Práticas: praticas.md
   - Caminhos e Derivações: caminhos.md
   - Como Contribuir: contribuindo.md
   - Licença: licenca.md
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/eom-jam/larjam
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/
+
 markdown_extensions:
-  - toc:
-      permalink: true
-  - tables
   - admonition
   - codehilite
   - footnotes
   - meta
+  - toc:
+      permalink: true
+  - tables

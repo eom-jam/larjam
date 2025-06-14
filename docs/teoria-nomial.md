@@ -7,3 +7,6 @@ Explicação da Teoria Nomial.
 - Alinhamento.
 - Externalização.
 - Entranhamento.
+
+!!! warning
+    Este conteúdo está sujeito a revisão filosófica.

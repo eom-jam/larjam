@@ -5,3 +5,6 @@
 - Reflexão nomial.
 - Escrita, externalização e construção de caminhos.
 - Participação colaborativa.
+
+!!! tip
+    A prática constante do alinhamento gera clareza.
