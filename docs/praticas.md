@@ -4,3 +4,4 @@
 - Questionamento filosófico.
 - Reflexão nomial.
 - Escrita, externalização e construção de caminhos.
+- Participação colaborativa.

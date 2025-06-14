@@ -6,3 +6,4 @@
 | Nomus         | Um conjunto de nomi alinhados.               |
 | Instanciamento| Processo de ativar um nomi em um eu.         |
 | Entranhamento | O enraizamento de um nomi na mente.          |
+| Alinhamento   | Estado de organização dos nomi em harmonia.  |

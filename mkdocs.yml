@@ -12,3 +12,12 @@ nav:
   - Caminhos e Derivações: caminhos.md
   - Como Contribuir: contribuindo.md
   - Licença: licenca.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - codehilite
+  - footnotes
+  - meta

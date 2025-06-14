@@ -1,6 +1,6 @@
 # Teoria Nomial
 
-Explicação completa da Teoria Nomial.
+Explicação da Teoria Nomial.
 
 - Definição de nomi.
 - Instanciamento.

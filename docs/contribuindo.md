@@ -3,8 +3,8 @@
 Contribuições são bem-vindas!
 
 ## Como fazer:
-- Fork este repositório.
-- Crie sua branch.
+- Faça um fork deste repositório.
+- Crie sua branch (`git checkout -b melhoria`).
 - Proponha mudanças via Pull Request.
 
 ## Tipos de contribuições:
