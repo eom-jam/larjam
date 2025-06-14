@@ -9,9 +9,9 @@ Este projeto está licenciado sob a **Creative Commons Attribution-ShareAlike 4.
 
 ## 🧠 Sob as seguintes condições:
 
-- 🔗 **Atribuição** — Você deve dar o devido crédito, fornecer um link para a licença e indicar se foram feitas alterações. Você deve fazer isso de qualquer forma razoável, mas de maneira que não sugira que o licenciante endossa você ou seu uso.
+- 🔗 **Atribuição** — Você deve dar o devido crédito (eom), fornecer um link para a licença e indicar se foram feitas alterações. Você deve fazer isso de qualquer forma razoável, mas de maneira que não sugira que o licenciante endossa você ou seu uso.
   
-- 🔄 **CompartilhaIgual** — Se você remixar, transformar ou criar a partir do material, deverá distribuir suas contribuições sob a mesma licença que o original.
+- 🔄 **Compartilhamento Igual** — Se você remixar, transformar ou criar a partir do material, deverá distribuir suas contribuições sob a mesma licença que o original.
 
 ## 🚫 Sem restrições adicionais:
 
