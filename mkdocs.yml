@@ -1,0 +1,14 @@
+site_name: Larjam
+site_url: https://eom-jam.github.io/larjam/
+theme:
+  name: material
+
+nav:
+  - Início: index.md
+  - Fundamentos: fundamentos.md
+  - Teoria Nomial: teoria-nomial.md
+  - Glossário: glossario.md
+  - Práticas Jamistas: praticas.md
+  - Caminhos e Derivações: caminhos.md
+  - Como Contribuir: contribuindo.md
+  - Licença: licenca.md
