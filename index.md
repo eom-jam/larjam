@@ -1,8 +1,13 @@
-# Larjam
+---
+layout: default
+title: Larjam
+---
 
-Bem-vindo ao **Larjam** — Livro de Apoio Religioso do JAM (*Jedaísmo Agnóstico Moderado*).
+# Bem-vindo ao Larjam
 
-## Seções Principais
+Este é o Livro de Apoio Religioso do JAM — Jedaísmo Agnóstico Moderado.
+
+## Seções
 
 - [Fundamentos](fundamentos.md)
 - [Teoria Nomial](teoria-nomial.md)
