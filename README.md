@@ -81,7 +81,7 @@ larjam/
 ## ✨ Filosofia Viva
 
 O Larjam não é um documento fechado.  
-É um organismo filosófico em constante construção, evolução, alinhamento e entranhamento.
+É um organismo filosófico em constante construção, evolução, alinhamento e emaranhamento.
 
 A sua contribuição é um ato de externalização e alinhamento nomial, que fortalece o universo coletivo do JAM.
 

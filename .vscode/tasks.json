@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "mkdocs serve",
+            "type": "shell",
+            "command": "start http://127.0.0.1:8000/larjam/ ; mkdocs serve",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}

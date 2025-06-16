@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Rodar mkdocs serve",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceFolder}/dummy.js", // pode ser qualquer arquivo, não será usado
+            "preLaunchTask": "mkdocs serve",
+            "skipFiles": ["<node_internals>/**"]
+        }
+    ]
+}

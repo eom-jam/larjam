@@ -35,7 +35,7 @@ Nos comprometemos a oferecer um ambiente seguro, acolhedor, inclusivo e livre de
 
 O Larjam é um organismo filosófico em constante construção, guiado pela reflexão, pela coletividade e pelo respeito mútuo.
 
-Toda interação aqui é uma oportunidade de alinhamento, externalização e entranhamento de nomi que fortalecem o propósito coletivo.
+Toda interação aqui é uma oportunidade de alinhamento, externalização e emaranhamento de nomi que fortalecem o propósito coletivo.
 
 Agradecemos sua colaboração, reflexão e participação.
 

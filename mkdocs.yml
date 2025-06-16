@@ -1,4 +1,7 @@
-site_name: Larjam
+site_name: Jedaísmo Agnóstico Moderado 
+site_description: "Larjam é um guia para o Jedaísmo Agnóstico Moderado, uma filosofia de vida que busca a harmonia entre ciência, espiritualidade e ética."
+site_author: "EOM-JAM"
+site_version: "1.0.0"
 site_url: https://eom-jam.github.io/larjam/
 theme:
   name: material
@@ -24,14 +27,18 @@ theme:
     - content.action.edit
 
 nav:
-  - Início: index.md
-  - Filosofia:
-      - Fundamentos: fundamentos.md
-      - Teoria Nomial: teoria-nomial.md
-      - Glossário: glossario.md
-  - Práticas: praticas.md
-  - Caminhos e Derivações: caminhos.md
-  - Como Contribuir: contribuindo.md
+  - Larjam: index.md
+  - Fundamentos:
+      - Nomus: fundamentos/nomus.md
+      - Emaranhamento: fundamentos/emaranhamento.md
+      - eom: fundamentos/eom.md
+  - Jam: jam.md
+  - Glossário: glossario.md
+  - Referências filosóficas: referencias_filosoficas.md
+  - Como Contribuir: 
+      - Guia de colaboração: Colaboracao.md
+      - Código de Conduta: Conduta.md
+
   - Licença: licenca.md
 
 extra:
@@ -47,5 +54,5 @@ markdown_extensions:
   - footnotes
   - meta
   - toc:
-      permalink: true
+      permalink: false
   - tables

@@ -2,9 +2,9 @@
 
 > "A fé é vida por procuração."
 
-- A imanência do eu.
+- eon: a imanência do eu.
 - A teoria nomial.
-- O instanciamento e entranhamento dos nomi.
+- O instanciamento e emaranhamento dos nomi.
 - Externalização e alinhamento.
 
 !!! note

@@ -66,10 +66,26 @@ Este projeto é aberto, colaborativo e vive da contribuição de reflexões, tex
 
 ---
 
-## ✨ **Filosofia Viva**
+## 🧠 Diretrizes para contribuição:
 
-O Larjam é um organismo filosófico em constante construção. Sua contribuição é um ato de alinhamento, instanciamento e externalização de nomi na coletividade.
+- ✅ Utilize linguagem formal, clara, moderada e equilibrada.
+- ✅ Respeite a estrutura do site e a organização dos conteúdos.
+- ✅ As contribuições podem incluir:
+  - Novas reflexões filosóficas.
+  - Ampliação ou refinamento dos fundamentos.
+  - Sugestões de novos caminhos, derivações ou bifurcações filosóficas.
+  - Melhorias na organização, estrutura ou navegação do site.
+  - Correções ortográficas, gramaticais ou de clareza textual.
 
-Agradecemos profundamente sua participação.
+- ❌ Não são bem-vindas alterações que:
+  - Descaracterizem os fundamentos conceituais do JAM.
+  - Quebrem a navegação ou a integridade técnica do site.
+  - Sejam ofensivas, desrespeitosas ou contrárias ao espírito colaborativo.
+
+## ✨ Filosofia Viva
+
+O Larjam é, por natureza, um projeto em permanente construção. Toda contribuição é um ato de alinhamento, instanciamento e externalização de nomi no universo coletivo do JAM.
+
+Agradecemos por participar da evolução deste organismo filosófico.
 
 — JAM
