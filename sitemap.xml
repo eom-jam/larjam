@@ -2,34 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://eom-jam.github.io/larjam/</loc>
-         <lastmod>2025-06-14</lastmod>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/caminhos/</loc>
-         <lastmod>2025-06-14</lastmod>
+         <loc>https://eom-jam.github.io/larjam/Colaboracao/</loc>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/contribuindo/</loc>
-         <lastmod>2025-06-14</lastmod>
-    </url>
-    <url>
-         <loc>https://eom-jam.github.io/larjam/fundamentos/</loc>
-         <lastmod>2025-06-14</lastmod>
+         <loc>https://eom-jam.github.io/larjam/Conduta/</loc>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
          <loc>https://eom-jam.github.io/larjam/glossario/</loc>
-         <lastmod>2025-06-14</lastmod>
+         <lastmod>2025-06-16</lastmod>
+    </url>
+    <url>
+         <loc>https://eom-jam.github.io/larjam/jam/</loc>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
          <loc>https://eom-jam.github.io/larjam/licenca/</loc>
-         <lastmod>2025-06-14</lastmod>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/praticas/</loc>
-         <lastmod>2025-06-14</lastmod>
+         <loc>https://eom-jam.github.io/larjam/manifesto/</loc>
+         <lastmod>2025-06-16</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/teoria-nomial/</loc>
-         <lastmod>2025-06-14</lastmod>
+         <loc>https://eom-jam.github.io/larjam/referencias_filosoficas/</loc>
+         <lastmod>2025-06-16</lastmod>
+    </url>
+    <url>
+         <loc>https://eom-jam.github.io/larjam/assets/fundamentos/</loc>
+         <lastmod>2025-06-16</lastmod>
+    </url>
+    <url>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/emaranhamento/</loc>
+         <lastmod>2025-06-16</lastmod>
+    </url>
+    <url>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/emaranhamento.old/</loc>
+         <lastmod>2025-06-16</lastmod>
+    </url>
+    <url>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/eom/</loc>
+         <lastmod>2025-06-16</lastmod>
+    </url>
+    <url>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/nomus/</loc>
+         <lastmod>2025-06-16</lastmod>
     </url>
 </urlset>
