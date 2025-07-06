@@ -27,11 +27,12 @@ theme:
     - content.action.edit
 
 nav:
-  - Larjam: index.md
+  - Jam: index.md
   - Fundamentos:
       - Nomus: fundamentos/nomus.md
       - Emaranhamento: fundamentos/emaranhamento.md
       - eom: fundamentos/eom.md
+      - Força: fundamentos/forca.md
   - Jam: jam.md
   - Glossário: glossario.md
   - Referências filosóficas: referencias_filosoficas.md

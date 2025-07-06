@@ -26,4 +26,3 @@ Você não pode aplicar termos legais ou medidas tecnológicas que restrinjam le
 **Em essência:**  
 Você é livre para usar, copiar, redistribuir e modificar este material, desde que dê crédito adequado e compartilhe sob a mesma licença.
 
-— JAM
