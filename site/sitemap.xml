@@ -2,54 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://eom-jam.github.io/larjam/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <lastmod>2025-07-06</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/Colaboracao/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <loc>https://eom-jam.github.io/larjam/colaboracao/</loc>
+         <lastmod>2025-07-06</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/Conduta/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <loc>https://eom-jam.github.io/larjam/conduta/</loc>
+         <lastmod>2025-07-06</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/glossario/</loc>
-         <lastmod>2025-06-16</lastmod>
-    </url>
-    <url>
-         <loc>https://eom-jam.github.io/larjam/jam/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <loc>https://eom-jam.github.io/larjam/larjam/</loc>
+         <lastmod>2025-07-06</lastmod>
     </url>
     <url>
          <loc>https://eom-jam.github.io/larjam/licenca/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <lastmod>2025-07-06</lastmod>
     </url>
     <url>
          <loc>https://eom-jam.github.io/larjam/manifesto/</loc>
-         <lastmod>2025-06-16</lastmod>
-    </url>
-    <url>
-         <loc>https://eom-jam.github.io/larjam/referencias_filosoficas/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <lastmod>2025-07-06</lastmod>
     </url>
     <url>
          <loc>https://eom-jam.github.io/larjam/assets/fundamentos/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <lastmod>2025-07-06</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/fundamentos/emaranhamento/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/referencias_filosoficas/</loc>
+         <lastmod>2025-07-06</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/fundamentos/emaranhamento.old/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/crencas/atos_de_fe/</loc>
+         <lastmod>2025-07-06</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/fundamentos/eom/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/crencas/dinheiro/</loc>
+         <lastmod>2025-07-06</lastmod>
     </url>
     <url>
-         <loc>https://eom-jam.github.io/larjam/fundamentos/nomus/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/crencas/forca/</loc>
+         <lastmod>2025-07-06</lastmod>
+    </url>
+    <url>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/epistemologia/emaranhamento/</loc>
+         <lastmod>2025-07-06</lastmod>
+    </url>
+    <url>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/epistemologia/eom/</loc>
+         <lastmod>2025-07-06</lastmod>
+    </url>
+    <url>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/epistemologia/glossario/</loc>
+         <lastmod>2025-07-06</lastmod>
+    </url>
+    <url>
+         <loc>https://eom-jam.github.io/larjam/fundamentos/epistemologia/nomus/</loc>
+         <lastmod>2025-07-06</lastmod>
     </url>
 </urlset>
