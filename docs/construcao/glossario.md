@@ -1,6 +1,5 @@
 # Glossário
 
-##[eom](fundamentos/eom.md)
 **imanência do eu**
 
 eom representa a experiência viva do eu enquanto se percebe. Cada instante de consciência sobre si manifesta eom. A palavra eom atua como espelho semântico. O entendimento acontece no ato de envolver-se nela.  

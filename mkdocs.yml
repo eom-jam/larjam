@@ -33,6 +33,9 @@ nav:
       - Agnosticismo: jam/agnosticismo.md
       - Moderação: jam/moderacao.md
   - Fundamentos:
+    - Ciencia:
+      - Forças: fundamentos/ciencia/forcas.md
+      - Modelo padrão: fundamentos/ciencia/modelo_padrao.md
     - Crencas:
       - Força: fundamentos/crencas/forca.md
       - Dinheiro: fundamentos/crencas/dinheiro.md
@@ -43,12 +46,12 @@ nav:
       - Emaranhamento: fundamentos/epistemologia/emaranhamento.md
   - Composição:
     - Referências: 
-      - Filosofia: fundamentos/referencias_filosoficas.md
-      - Glossário: fundamentos/epistemologia/glossario.md
+      - Filosofia: construcao/referencias_filosoficas.md
+      - Glossário: construcao/glossario.md
     - Como Contribuir: 
-      - Guia de colaboração: colaboracao.md
-      - Código de Conduta: conduta.md
-      - Licença: licenca.md
+      - Guia de colaboração: construcao/colaboracao.md
+      - Código de Conduta: construcao/conduta.md
+      - Licença: construcao/licenca.md
 
 extra:
   social:
