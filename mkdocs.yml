@@ -27,6 +27,7 @@ theme:
 
 nav:
   - Jam: index.md
+  - Larjam: larjam.md
   - Sobre:
     - A religião:
       - Nome: jam/nome.md
@@ -49,6 +50,7 @@ nav:
       - Filosofia: construcao/referencias_filosoficas.md
       - Glossário: construcao/glossario.md
     - Como Contribuir: 
+      - Manifesto: construcao/manifesto.md
       - Guia de colaboração: construcao/colaboracao.md
       - Código de Conduta: construcao/conduta.md
       - Licença: construcao/licenca.md
