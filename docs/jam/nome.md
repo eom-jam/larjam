@@ -2,12 +2,12 @@ O nome JAM é um acrônimo cuidadosamente escolhido para expressar, com precisã
 ________________________________________
 - Jedaísmo
 
-A palavra "jedaísmo" é uma construção livre, que evoca de forma deliberada o termo "judaísmo" — uma das mais antigas tradições religiosas monoteístas. No entanto, o uso da letra "e" em lugar do "u" é significativo: marca o distanciamento da origem religiosa literal e propõe um novo eixo de reflexão.
+O [Jedaísmo](https://pt.wikipedia.org/wiki/Jedi%C3%ADsmo) é uma religião criada por fãs e seguidores de uma série famosa de filmes. O jamismo é uma vertente.
 
-O termo "Jedaísmo" remete também à palavra "jeda", uma forma condensada e inventada que pode sugerir juízo, ideia, identidade ou até mesmo uma brincadeira fonética com "jedi" — figura mítica moderna associada à sabedoria e ao autocontrole. É, portanto, um nome carregado de múltiplas camadas: tradição, ruptura, imaginação e crítica.
+O termo "Jedaísmo" remete também à palavra "jeda", uma forma condensada e inventada que pode sugerir juízo, ideia, identidade ou até mesmo uma brincadeira fonética com "jedi", uma figura mítica moderna associada à sabedoria e ao autocontrole. Com isso, torma-se um nome carregado de múltiplas camadas: tradição, ruptura, imaginação e crítica.
 
-Literariamente, ele funciona como um nome de escola, como estoicos, epicuristas, ou até como sufismo. O "ismo" indica que há uma doutrina, mas o nome é fictício, o que já coloca o JAM em posição de observar a si mesmo como sistema — e também rir de si mesmo.
-A doutrina filosófica e espiritual do JAM é chamada de jamaísmo.
+Literariamente, ele funciona como um nome de escola, como estoicos, epicuristas, ou até como sufismo. O "ismo" indica que há uma doutrina, mas o nome é fictício, o que já coloca o jamismo em posição de observar a si mesmo como sistema — e também rir de si mesmo.
+
 ________________________________________
 - Agnóstico
 

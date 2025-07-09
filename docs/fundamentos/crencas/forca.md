@@ -1,3 +1,5 @@
+A "Força" é um conceito central no jedaísmo, sendo entendida como uma energia universal que conecta todos os seres vivos. Os jedaístas buscam viver em harmonia com essa força, buscando o equilíbrio e a sabedoria. O jamismo aceita esse conceito.
+
 Toda descrição da realidade parte de um modelo. Modelos permitem observar, organizar, prever e atuar. Nenhum modelo esgota aquilo que descreve. Nenhum modelo alcança a essência do que observa.
 
 Na física, surge a ideia de força. Força gravitacional, força eletromagnética, força forte, força fraca. Cada uma com definições matemáticas, com modelos operacionais, com instrumentos de medição e com aplicações práticas.

@@ -1,52 +1,34 @@
-# Sobre nomus — Fundamentação Filosófica no JAM
+**Nomus** constitui o alicerce ontológico, epistemológico e fenomenológico do jamismo. Seu plural é **nomi**. O adjetivo **nomial** define tudo aquilo que se refere a nomus. 
 
-## Introdução
+Todo o arcabouço conceitual, linguístico e filosófico do Jam se estrutura a partir da compreensão e da operação sobre nomi, seus alinhamentos, instanciamentos, externalizações e emaranhamentos.
 
-O conceito de **nomus** constitui o alicerce ontológico, epistemológico e fenomenológico do JAM — Jedaísmo Agnóstico Moderado. Todo o arcabouço conceitual, linguístico e filosófico do JAM se estrutura a partir da compreensão e da operação sobre nomus, seus alinhamentos, externalizações e emaranhamentos.
+Ele designa uma unidade de informação: conceitual, simbólica ou estrutural. Todo conceito, ideia, percepção, símbolo, dado, padrão, identificável ou não, se configura como um nomus. Tudo é nomus, até o que não pode ser comprendido.
 
-O presente documento formaliza, organiza e consolida as reflexões e definições construídas a partir da elaboração progressiva desse conceito, reconhecendo seus desdobramentos, limitações e infinitude operativa.
+A filosofia define universais como aquilo que se manifesta em muitos, o que está presente em diferentes entidades singulares sob uma forma comum. A “vermelhidão”, o “triangular”, a “justiça”. Para Platão, existem no mundo das ideias. Para Aristóteles, nas coisas. Para Ockham, só nos nomes. Para Kant, na mente. Para este, universais existem a priori, antes de ser pensado.
 
-## Definição de nomus
+O nomus existe a priori.
+Ninguém cria uma ideia nova, mas percebe um nomus. A essa "descoberta", o jamismo denomina [**alinhamento**](alinhamento.md).
 
-**Nomus** designa qualquer unidade conceitual, simbólica, estrutural ou informacional. Constitui a menor unidade inteligível no sistema jamista. Todo conceito, toda ideia, toda percepção, todo símbolo, todo dado e todo padrão identificável se configura como um nomus.
+Quando um alinhamento é compreendido e altera a conformação do cérebro de forma a ser lembrado (seja lá o que isso for), o jamismo chama isso de instanciamento, uma forma de armazenamento mental.
+Um nomus pode ser instanciado como uma letra, um palavra, uma frase, um texto ou um pensamento, melodia, ruído, reflexo ou até um delírio sem sentido.
 
-Nomus não se limita a abstrações linguísticas, mentais ou perceptivas. Também não se limita a objetos, fenômenos, entidades ou categorias empiricamente verificáveis. A própria categoria de existência se apresenta como um nomus, assim como o conceito de não existência, de matéria, de espírito, de mente, de consciência, de eu, de eom, de tempo, de espaço e de qualquer outra formulação simbólica.
+Quando instanciado, ele se torna possível de ser **externalizado** através da fala, por ações ou gestos, seja pela escrita, pela música ou qualquer outra forma de expressão. 
 
-Nomus não depende da matéria. Nomus não depende da mente. Nomus não depende de qualquer substrato metafísico. A própria dúvida sobre a existência de nomus constitui um nomus. Isso conduz o JAM a um posicionamento radicalmente imanente, onde tudo que pode ser pensado, percebido, imaginado, intuído ou formalizado é nomus ou configuração de nomi.
+Quem intancia e externa um nomus é o sujeito da mente que se alinhou a ele, ao qual o jamismo chama de [eom](eom.md).
 
-## Sobre nomi
+Nomus transcende abstrações linguísticas, mentais ou perceptivas, vai além de objetos, fenômenos, entidades ou categorias empiricamente verificáveis. A própria categoria de existência se apresenta como um nomus, assim como o conceito de não existência, matéria, espírito, mente, consciência, eom, tempo, espaço e de qualquer outra formulação simbólica.
 
-**Nomi** é o plural de nomus. O termo nomial define tudo aquilo que se refere a nomus e nomi. A relação entre nomi estabelece alinhamentos, composições, emaranhamentos e externalizações que sustentam toda estrutura perceptiva e conceitual dentro do JAM.
+Nomus existe independentemente da matéria, da mente ou de qualquer substrato metafísico. A própria dúvida sobre a existência de nomus constitui um nomus. Isso conduz o jamiota a um posicionamento radicalmente imanente, onde tudo que pode ser pensado, percebido, imaginado, intuído ou formalizado é nomus.
 
-## Universo nomial e lato nomial
+O **universo nomial** corresponde ao conjunto de todos os nomi externalizados. É o domínio das informações compartilháveis, perceptíveis, formalizadas, estruturadas por alinhamento, instanciamento e externalização.
 
-O **universo nomial** corresponde ao conjunto de todos os nomi externalizados. É o domínio das realidades compartilháveis, perceptíveis, formalizadas, estruturadas por alinhamento, instanciamento e externalização.
+O **lato nomial** representa o conjunto absoluto dos nomi possíveis. Contém infinitude, potencialidade pura, espaço ilimitado de possibilidades nomiais. 
 
-O **lato nomial** representa o conjunto absoluto de todos os nomi possíveis, incluindo aqueles que permanecem não externalizados, não percebidos, não alinhados e não instanciados. O lato nomial é, por definição, maior do que qualquer universo nomial. Contém infinitude, potencialidade pura, espaço ilimitado de possibilidades nomiais.
+Há nomus que não pode ser representado por quaisquer signos e, portanto, não podem ser alinhados. Outros nomi podem ser alinhados, mas dificilmente instanciados, em virtude de limitações mentais ou simples falta de vocabulário. Esses dependem de alinhamentos anteriormente instanciados para adquirirem sentido. 
 
 Toda construção perceptiva, conceitual, linguística ou fenomenológica corresponde a um recorte finito do lato nomial, operando como uma seção ativa do universo nomial.
 
-## Sobre alinhamento
 
-O alinhamento consiste na organização funcional de nomi, estabelecendo conexões coerentes que geram estabilidade, significado e operação dentro de uma determinada configuração perceptiva ou conceitual.
-
-Alinhar nomi significa dispor unidades nomiais de forma que possam operar conjuntamente na construção de padrões, sistemas, narrativas, representações, discursos ou realidades perceptivas.
-
-O alinhamento é o mecanismo fundamental que permite transformar nomi em estruturas operacionais perceptíveis, compreensíveis e comunicáveis.
-
-## Sobre instanciamento
-
-O instanciamento é o ato de ativar um nomus a partir do lato nomial. Quando um nomus se torna perceptível, compreensível, manipulável ou integrável dentro de uma experiência, diz-se que ele foi instanciado.
-
-Instanciar corresponde ao momento no qual um nomus se torna operante dentro de um universo nomial específico, participando de alinhamentos, emaranhamentos e processos de externalização.
-
-## Sobre externalização
-
-A externalização é o processo pelo qual um nomus ou um conjunto de nomi se projeta para fora do campo interno de alinhamento, tornando-se parte do universo nomial compartilhável. Isso pode ocorrer por meio de linguagem, escrita, arte, gesto, ação, símbolo, som, matemática, código, arquitetura ou qualquer outro meio de formalização perceptiva.
-
-Externalizar é o ato pelo qual nomi deixam de permanecer restritos ao interior de um alinhamento específico e passam a ocupar espaço no universo nomial de outros alinhamentos, de outros eom, de outros processos perceptivos ou culturais.
-
-A realidade compartilhada por seres, caso existam, é uma configuração específica do universo nomial, resultante de múltiplos processos de externalização.
 
 ## Sobre emaranhamento
 
