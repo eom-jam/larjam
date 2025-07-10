@@ -16,7 +16,7 @@ Essa religião atua como ferramenta de ordenamento, um conjunto de heurísticas 
 
 O JAM convida ao exercício permanente de observar o que existe, de considerar tudo que já foi pensado, sentido, imaginado ou registrado, e de buscar, com moderação, as conexões que oferecem sentido, orientação e coerência.
 
-Desse movimento surge a construção de ferramentas conceituais próprias. Uma epistemologia composta de conceitos próprios, como [*nomus*](fundamentos/epistemologia/nomus.md), [*eom*](fundamentos/epistemologia/eom.md), [*emaranhamento nomial* e *lato nomial*](fundamentos/epistemologia/emaranhamento.md), ao mesmo tempo fundamentada em textos de grandes mestres.  
+Desse movimento surge a construção de ferramentas conceituais próprias, heurísticas (técnicas que conduzem à descoberta). Uma epistemologia composta de conceitos próprios, como [*nomus*](fundamentos/epistemologia/nomus.md), [*eom*](fundamentos/epistemologia/eom.md), [*emaranhamento nomial* e *lato nomial*](fundamentos/epistemologia/emaranhamento.md), ao mesmo tempo fundamentada em textos de grandes mestres da filosofia e das ciências.  
 
 Essas ferramentas surgem como modelos operacionais, como tentativas de descrever, organizar e compreender o tecido do existir de uma forma diferente. 
 

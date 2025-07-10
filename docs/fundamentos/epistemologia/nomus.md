@@ -1,17 +1,29 @@
-**Nomus** constitui o alicerce ontológico, epistemológico e fenomenológico do jamismo. Seu plural é **nomi**. O adjetivo **nomial** define tudo aquilo que se refere a nomus. 
+**Nomus** designa uma unidade de informação, seja conceitual, simbólica ou estrutural. Todo conceito, ideia, percepção, símbolo, dado, padrão, identificável ou não, se configura como um nomus. Tudo é nomus, até o que não pode ser comprendido.
 
-Ele designa uma unidade de informação: conceitual, simbólica ou estrutural. Todo conceito, ideia, percepção, símbolo, dado, padrão, identificável ou não, se configura como um nomus. Tudo é nomus, até o que não pode ser comprendido.
+Seu plural é **nomi**. O adjetivo **nomial** define tudo aquilo que se refere a nomus. 
 
-Nomus transcende abstrações linguísticas, mentais ou perceptivas, vai além de objetos, fenômenos, entidades ou categorias empiricamente verificáveis. A própria categoria de existência se apresenta como um nomus, assim como o conceito de não existência, matéria, espírito, mente, consciência, [eom](eom.md), tempo, espaço e de qualquer outra formulação simbólica.
+Ele transcende abstrações linguísticas, mentais ou perceptivas, vai além de objetos, fenômenos, entidades ou categorias empiricamente verificáveis. A própria categoria de existência se apresenta como um nomus, assim como o conceito de não existência, matéria, espírito, mente, consciência, [eom](eom.md), tempo, espaço e de qualquer outra formulação simbólica.
 
-Nomus existe independentemente da matéria, da mente ou de qualquer substrato metafísico. A própria dúvida sobre a existência de nomus constitui um nomus. 
+Nomus constitui o alicerce ontológico, epistemológico e fenomenológico do jamismo.
 
-A filosofia define os universais como aquilo que se manifesta em muitos: o que está presente em diferentes entidades singulares sob uma forma comum — como a “vermelhidão”, o “triangular”, a “justiça”. Para Platão, eles existem no mundo das ideias; para Aristóteles, nas próprias coisas; para Ockham, apenas nos nomes; para Kant, na mente. Para este último, os universais existem a priori, antes mesmo de serem pensados.
+Em filosofia, universais referem-se a características, qualidades ou tipos que podem ser atribuídos a múltiplos objetos, indivíduos ou coisas. São entidades que podem ser compartilhadas por diferentes instâncias, contrastando com os particulares, que são considerados instâncias únicas. São exemplos “vermelhidão”, “triangular” e “justiça”. 
 
-Um nomus existe a priori.
-Ninguém cria uma ideia, mas percebe um nomus. O jamismo chama isso de [**alinhamento**](alinhamento.md).
+No ideal de Platão, também conhecido como teoria das Formas ou Ideias, o mundo sensível que percebemos é apenas uma cópia imperfeita de um mundo superior e perfeito, o mundo das Ideias. Essas Formas ou Ideias são modelos eternos e imutáveis de tudo o que existe no mundo material. 
 
-Quando ocorre um alinhamento, o nomus pode ser descartado, seja por parecer sem interesse ou imcompreensível. Se não, o nomus alinhado pode ficar, de alguma forma, armazenado no cérebro, o que o jamismo chama de **instanciamento**.
+Para Aristóteles, os universais existem na própria substância dos objetos que percebemos. Ele propôs o hilemorfismo, onde cada coisa é composta por matéria e forma, e a forma é o universal que se manifesta em cada indivíduo. 
+
+Para o nominalismo de Guilherme de Ockham, os universais são signos mentais que surgem quando nossa mente abstrai semelhanças entre objetos individuais. Esses signos mentais, ou conceitos, não têm existência fora da mente, mas são ferramentas cognitivas que nos permitem pensar e falar sobre o mundo. Ockham propôs que a linguagem, tanto falada quanto escrita, é baseada na linguagem mental, e os termos gerais na linguagem se referem a esses conceitos mentais que, por sua vez, se referem a coisas individuais. 
+
+As ideias de Platão, a forma de Aristóteles, os nomes de Ockham são nomi que nos ajudam a ver o universo de algum jeito.
+O jamismo aceita todas essas vertentes e vai além.
+
+Kant desenvolve um idealismo transcendental, onde o conhecimento se baseia em estruturas a priori da mente, que organizam e dão forma à experiência.
+
+Seguindo o raciocínio de Kant, um nomus existe a priori. Quando alguém pensa alguma coisa, isso já existia. São comuns os casos de pessoas que pensaram a mesma coisa, porque a informação independe do mensageiro.
+
+No jamismo, ninguém cria uma ideia, mas percebe um nomus. O jamismo chama isso de [**alinhamento**](alinhamento.md).
+
+Quando ocorre um alinhamento, o nomus pode ser descartado, seja por parecer sem interesse ou incompreensível. Se não, o nomus alinhado pode ficar, de alguma forma, armazenado no cérebro, o que o jamismo chama de **instanciamento**.
 Um nomus instanciado pode uma letra, palavra, frase, texto, história, discurso, pensamento, melodia, ruído, imagem, reflexo ou até um delírio sem sentido.
 
 Quando instanciado, ele se torna possível de ser **externalizado** através da fala, por ações ou gestos, seja pela escrita, pela música ou qualquer outra forma de expressão.
