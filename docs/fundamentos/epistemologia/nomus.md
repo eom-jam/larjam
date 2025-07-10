@@ -24,40 +24,11 @@ O **universo nomial** corresponde ao conjunto de todos os nomi externalizados. �
 
 O **lato nomial** representa o conjunto absoluto dos nomi. Contém infinitude, potencialidade pura, capacidade ilimitada de possibilidades nomiais. 
 
-Toda construção perceptiva, conceitual, linguística ou fenomenológica corresponde a um recorte finito do lato nomial, operando como uma seção ativa do universo nomial.
-
 Há nomus que não pode ser representado por quaisquer signos, são inacessíveis e, portanto, não podem ser alinhados. Outros nomi podem ser alinhados, mas dificilmente instanciados, em virtude de limitações mentais ou simples falta de vocabulário. Esses dependem de alinhamentos anteriormente instanciados para adquirirem sentido. 
 
-## Sobre a imanência de nomus
-
-Nomus não depende da existência de mente, de eu, de eom ou de consciência. A própria consciência, caso exista, se apresenta como nomus ou como composição nomial.
-
-No lato nomial, **eom** é apenas mais um nomus, representado por múltiplos nomi. Existem nomi que definem eom, outros que rejeitam eom, e outros que permanecem indiferentes à sua formulação.
-
+Nomus não depende da existência de nada. 
 A existência de nomus não se subordina à existência de seres, de universos físicos, de consciências ou de qualquer estrutura metafísica. Nomus permanece enquanto possibilidade, enquanto unidade de sentido, enquanto fenômeno imanente na arquitetura infinita do lato nomial.
 
-## Sobre a realidade nomial
+Se existirem multiversos, vida após a morte, céu ou inferno, lá haverá nomus.
 
-A realidade, no JAM, não se apresenta como entidade ontológica independente, mas como fenômeno resultante de alinhamentos, instanciamentos, emaranhamentos e externalizações nomiais.
-
-O que se afirma, existe no alinhamento. O que permanece fora da afirmação, permanece no lato nomial, no campo do que não sei, do que não percebo, do que não importa.
-
-A ausência de afirmação não configura negação plena. Configura latência nomial. A negação só emerge quando necessária para sustentar um alinhamento específico. Fora disso, o silêncio cumpre a função de manter possibilidades abertas, não alinhadas.
-
-## Conclusão
-
-Nomus constitui a pedra fundamental do JAM. Tudo que pode ser concebido, percebido, formulado ou imaginado opera dentro do campo nomial.
-
-O universo nomial resulta da externalização. O lato nomial preserva infinitude. A percepção, o sentido e a experiência se estruturam por meio de alinhamentos e emaranhamentos de nomi.
-
-A própria dúvida sobre nomus confirma seu lugar no alinhamento, pois se apresenta como nomus operante no ato de questionar.
-
-O JAM reconhece nomus como princípio absoluto de imanência. A ontologia jamista não se ancora em substâncias, em essências ou em entidades transcendentes, mas na imanência pura da possibilidade nomial.
-
-O nomus é. Porque afirmo que é. Isso não garante que seja. Garante que está externalizado, perceptível, operante, alinhado.
-
-A própria matéria, caso exista, é nomus. O próprio espírito, caso exista, é nomus. O próprio tempo, espaço, energia, linguagem, percepção, eom, são nomus ou configurações de nomi.
-
-Nomus é a condição de possibilidade de tudo que pode ser pensado, percebido, sentido ou desconhecido.
-
-Por isso, nomus sustenta o JAM.
+Se nada mais existe, resta apenas eom (sum) e o lato nomial (cogito).
