@@ -1,44 +1,32 @@
 **Nomus** constitui o alicerce ontológico, epistemológico e fenomenológico do jamismo. Seu plural é **nomi**. O adjetivo **nomial** define tudo aquilo que se refere a nomus. 
 
-Todo o arcabouço conceitual, linguístico e filosófico do Jam se estrutura a partir da compreensão e da operação sobre nomi, seus alinhamentos, instanciamentos, externalizações e emaranhamentos.
-
 Ele designa uma unidade de informação: conceitual, simbólica ou estrutural. Todo conceito, ideia, percepção, símbolo, dado, padrão, identificável ou não, se configura como um nomus. Tudo é nomus, até o que não pode ser comprendido.
 
-A filosofia define universais como aquilo que se manifesta em muitos, o que está presente em diferentes entidades singulares sob uma forma comum. A “vermelhidão”, o “triangular”, a “justiça”. Para Platão, existem no mundo das ideias. Para Aristóteles, nas coisas. Para Ockham, só nos nomes. Para Kant, na mente. Para este, universais existem a priori, antes de ser pensado.
+Nomus transcende abstrações linguísticas, mentais ou perceptivas, vai além de objetos, fenômenos, entidades ou categorias empiricamente verificáveis. A própria categoria de existência se apresenta como um nomus, assim como o conceito de não existência, matéria, espírito, mente, consciência, [eom](eom.md), tempo, espaço e de qualquer outra formulação simbólica.
 
-O nomus existe a priori.
-Ninguém cria uma ideia nova, mas percebe um nomus. A essa "descoberta", o jamismo denomina [**alinhamento**](alinhamento.md).
+Nomus existe independentemente da matéria, da mente ou de qualquer substrato metafísico. A própria dúvida sobre a existência de nomus constitui um nomus. 
 
-Quando um alinhamento é compreendido e altera a conformação do cérebro de forma a ser lembrado (seja lá o que isso for), o jamismo chama isso de instanciamento, uma forma de armazenamento mental.
-Um nomus pode ser instanciado como uma letra, um palavra, uma frase, um texto ou um pensamento, melodia, ruído, reflexo ou até um delírio sem sentido.
+A filosofia define os universais como aquilo que se manifesta em muitos: o que está presente em diferentes entidades singulares sob uma forma comum — como a “vermelhidão”, o “triangular”, a “justiça”. Para Platão, eles existem no mundo das ideias; para Aristóteles, nas próprias coisas; para Ockham, apenas nos nomes; para Kant, na mente. Para este último, os universais existem a priori, antes mesmo de serem pensados.
 
-Quando instanciado, ele se torna possível de ser **externalizado** através da fala, por ações ou gestos, seja pela escrita, pela música ou qualquer outra forma de expressão. 
+Um nomus existe a priori.
+Ninguém cria uma ideia, mas percebe um nomus. O jamismo chama isso de [**alinhamento**](alinhamento.md).
 
-Quem intancia e externa um nomus é o sujeito da mente que se alinhou a ele, ao qual o jamismo chama de [eom](eom.md).
+Quando ocorre um alinhamento, o nomus pode ser descartado, seja por parecer sem interesse ou imcompreensível. Se não, o nomus alinhado pode ficar, de alguma forma, armazenado no cérebro, o que o jamismo chama de **instanciamento**.
+Um nomus instanciado pode uma letra, palavra, frase, texto, história, discurso, pensamento, melodia, ruído, imagem, reflexo ou até um delírio sem sentido.
 
-Nomus transcende abstrações linguísticas, mentais ou perceptivas, vai além de objetos, fenômenos, entidades ou categorias empiricamente verificáveis. A própria categoria de existência se apresenta como um nomus, assim como o conceito de não existência, matéria, espírito, mente, consciência, eom, tempo, espaço e de qualquer outra formulação simbólica.
+Quando instanciado, ele se torna possível de ser **externalizado** através da fala, por ações ou gestos, seja pela escrita, pela música ou qualquer outra forma de expressão.
 
-Nomus existe independentemente da matéria, da mente ou de qualquer substrato metafísico. A própria dúvida sobre a existência de nomus constitui um nomus. Isso conduz o jamiota a um posicionamento radicalmente imanente, onde tudo que pode ser pensado, percebido, imaginado, intuído ou formalizado é nomus.
+Os nomi podem compartilhar significados, apresentar intersecções, formas comuns, semelhanças, podem se misturar de uma forma que não conseguimos reconhecer seus limites, muitas vezes não conseguindodistinguir um do outro. O jamismo denomina esse fenômeno de **emaranhamento**. 
+
+Todo o arcabouço conceitual, linguístico e filosófico do Jam se estrutura a partir da compreensão e da operação de nomi, seus alinhamentos, instanciamentos, externalizações e emaranhamentos.
 
 O **universo nomial** corresponde ao conjunto de todos os nomi externalizados. É o domínio das informações compartilháveis, perceptíveis, formalizadas, estruturadas por alinhamento, instanciamento e externalização.
 
-O **lato nomial** representa o conjunto absoluto dos nomi possíveis. Contém infinitude, potencialidade pura, espaço ilimitado de possibilidades nomiais. 
-
-Há nomus que não pode ser representado por quaisquer signos e, portanto, não podem ser alinhados. Outros nomi podem ser alinhados, mas dificilmente instanciados, em virtude de limitações mentais ou simples falta de vocabulário. Esses dependem de alinhamentos anteriormente instanciados para adquirirem sentido. 
+O **lato nomial** representa o conjunto absoluto dos nomi. Contém infinitude, potencialidade pura, capacidade ilimitada de possibilidades nomiais. 
 
 Toda construção perceptiva, conceitual, linguística ou fenomenológica corresponde a um recorte finito do lato nomial, operando como uma seção ativa do universo nomial.
 
-
-
-## Sobre emaranhamento
-
-Emaranhamento é a medida de interseção, sobreposição e densidade relacional entre nomi. Representa a malha de conexões que sustenta a percepção de continuidade, causalidade, tempo, espaço, identidade, mudança e permanência.
-
-O emaranhamento é o fenômeno que permite que nomi se mantenham interdependentes, reforçando padrões, criando coesão perceptiva e sustentando estruturas cognitivas, linguísticas e fenomenológicas.
-
-A experiência de passado, presente e futuro, assim como a percepção de movimento, transformação e identidade, depende integralmente de padrões de emaranhamento. Sem emaranhamento, cada nomus se apresentaria como evento isolado, efêmero, não relacionado.
-
-A própria possibilidade de abrir os olhos, reconhecer uma voz, compreender uma palavra, caminhar, construir sentido ou formular uma ideia, depende da malha ativa de emaranhamentos nomiais que sustenta a estabilidade perceptiva e operacional da experiência.
+Há nomus que não pode ser representado por quaisquer signos, são inacessíveis e, portanto, não podem ser alinhados. Outros nomi podem ser alinhados, mas dificilmente instanciados, em virtude de limitações mentais ou simples falta de vocabulário. Esses dependem de alinhamentos anteriormente instanciados para adquirirem sentido. 
 
 ## Sobre a imanência de nomus
 
