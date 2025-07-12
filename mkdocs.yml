@@ -33,6 +33,11 @@ nav:
       - Nome: jam/nome.md
       - Agnosticismo: jam/agnosticismo.md
       - Moderação: jam/moderacao.md
+    - Epistemologia:
+      - Nomus: fundamentos/epistemologia/nomus.md
+      - eom: fundamentos/epistemologia/eom.md
+      - Emaranhamento: fundamentos/epistemologia/emaranhamento.md
+      - Alinhamento: fundamentos/epistemologia/alinhamento.md
   - Fundamentos:
     - Ciencia:
       - Forças: fundamentos/ciencia/forcas.md
@@ -42,11 +47,6 @@ nav:
       - Religião: fundamentos/crencas/religiao.md
       - Força: fundamentos/crencas/forca.md
       - Dinheiro: fundamentos/crencas/dinheiro.md
-    - Epistemologia:
-      - Nomus: fundamentos/epistemologia/nomus.md
-      - eom: fundamentos/epistemologia/eom.md
-      - Emaranhamento: fundamentos/epistemologia/emaranhamento.md
-      - Alinhamento: fundamentos/epistemologia/alinhamento.md
   - Composição:
     - Referências: 
       - Filosofia: construcao/referencias_filosoficas.md

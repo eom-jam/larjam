@@ -44,3 +44,34 @@ A existência de nomus não se subordina à existência de seres, de universos f
 Se existirem multiversos, vida após a morte, céu ou inferno, lá haverá nomus.
 
 Se nada mais existe, resta apenas eom (sum) e o lato nomial (cogito).
+
+---
+
+## Fundamentos e Referências
+
+**1. Unidade de Informação e Nomus**  
+- *Claude Shannon* (1948), “A Mathematical Theory of Communication”: Define informação como unidade fundamental para comunicação, baseando toda a teoria da informação moderna.  
+- *Gregory Bateson*, “Steps to an Ecology of Mind”: Define informação como “a diferença que faz diferença”, aproximando-se da ideia de nomus como unidade de sentido.
+
+**2. Universais, Abstrações e Realidade**  
+- *Platão*, “A República”, “Timeu”: O mundo das Ideias/Formas, onde universais existem independentemente do mundo físico.  
+- *Aristóteles*, “Metafísica”: Os universais existem nas próprias coisas, como formas.  
+- *Immanuel Kant*, “Crítica da Razão Pura”: O conhecimento é estruturado por categorias a priori, que organizam a experiência.  
+- *Guilherme de Ockham*, “Summa Logicae”: Nominalismo, onde universais são apenas nomes ou conceitos mentais.
+
+**3. Fenomenologia e Consciência**  
+- *Edmund Husserl*, “Investigações Lógicas”, “Ideias para uma Fenomenologia Pura”: O fenômeno é aquilo que se apresenta à consciência, próximo à ideia de nomus como fenômeno imanente.  
+- *Maurice Merleau-Ponty*, “Fenomenologia da Percepção”: A percepção é sempre situada e encarnada, e o sentido emerge da experiência.
+
+**4. Informação, Realidade e Multiverso**  
+- *John Archibald Wheeler*, “It from Bit”: A realidade física é, em última análise, informacional.  
+- *David Deutsch*, “The Fabric of Reality”: Multiversos e a ideia de que a realidade é composta por múltiplas possibilidades.
+
+**5. Linguagem, Externalização e Emaranhamento**  
+- *Ludwig Wittgenstein*, “Investigações Filosóficas”: O significado é uso, e a linguagem estrutura a realidade compartilhada.  
+- *Jacques Derrida*, “Gramatologia”: A externalização do sentido e a impossibilidade de total transparência entre signo e significado.
+
+**6. Ética e Respeito**  
+- *Immanuel Kant*, “Fundamentação da Metafísica dos Costumes”: O respeito como princípio moral, tratar o outro sempre como fim.  
+- *Paul Ricoeur*, “Soi-même comme un autre”: A ética do respeito ao outro como constitutiva da identidade.
+

@@ -16,8 +16,38 @@ Nomi instancidos ou externalizados se relacionam em um fenômeno que o jamismo d
 
 Um nomus externalizado pode adquirir uma espécie de vida própria, uma existência disseminada em outras mentes. Quando isso ocorre, mesmo que a pessoa que primeiro o externalizou morra ou negue, o nomus permanece no universo material. O jamismo chama isso de instanciamento nomial externo.
 
+Carl Gustav Jung define o inconsciente coletivo como um modelo que descreve conteúdos, imagens e padrões universais que se manifestam em diferentes culturas e indivíduos, independentemente da experiência pessoal direta.
+
 Na pré-história esse instanciamento ocorria através de tradição oral, pela dança ou música, principalmente.
 
 Por definição, a história de uma civilização começa com a escrita. Então o nomus encontra uma forma mais eficaz de instanciamento externo.
  
+---
 
+## Referências e Fundamentação
+
+**1. Alinhamento e Plasticidade Cerebral**
+
+- *Donald Hebb*, “The Organization of Behavior” (1949): Introduz o conceito de plasticidade sináptica, mostrando como padrões de atividade cerebral moldam conexões e percepções.
+
+- *Eric Kandel*, “In Search of Memory” (2006): Explica como experiências e estímulos externos modificam fisicamente o cérebro.
+
+**2. Heurísticas e Descoberta**
+
+- *Herbert Simon*, “The Sciences of the Artificial” (1969): Define heurísticas como estratégias práticas para resolver problemas complexos.
+
+- *Daniel Kahneman*, “Thinking, Fast and Slow” (2011): Explora como heurísticas influenciam decisões e percepções.
+
+**3. Externalização e Cultura**
+
+- *Lev Vygotsky*, “Pensamento e Linguagem” (1934): A linguagem como mediadora do pensamento e da externalização de conceitos.
+
+- *Walter J. Ong*, “Orality and Literacy” (1982): Analisa a transição da tradição oral para a escrita e seu impacto na transmissão do conhecimento.
+
+**4. Instanciamento e Memória Coletiva**
+
+- *Maurice Halbwachs*, “A Memória Coletiva” (1950): Como ideias e narrativas se perpetuam além do indivíduo, tornando-se parte do imaginário coletivo.
+
+- *Richard Dawkins*, “O Gene Egoísta” (1976): Introduz o conceito de “meme” como unidade de transmissão cultural, similar ao nomus externalizado.
+
+- *Carl Gustav Jung*, “O Eu e o Inconsciente” (1928) e “Os Arquétipos e o Inconsciente Coletivo” (1959): O inconsciente coletivo como repositório de imagens, símbolos e padrões universais que se manifestam em diferentes mentes e culturas, funcionando como um modelo de instanciamento nomial compartilhado.
