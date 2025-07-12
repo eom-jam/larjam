@@ -50,7 +50,7 @@ Se nada mais existe, resta apenas eom (sum) e o lato nomial (cogito).
 ## Fundamentos e Referências
 
 **1. Unidade de Informação e Nomus**  
-- *Claude Shannon* (1948), “A Mathematical Theory of Communication”: Define informação como unidade fundamental para comunicação, baseando toda a teoria da informação moderna.  
+- *Claude Shannon*, “A Mathematical Theory of Communication” (1948): Define informação como unidade fundamental para comunicação, baseando toda a teoria da informação moderna.  
 - *Gregory Bateson*, “Steps to an Ecology of Mind”: Define informação como “a diferença que faz diferença”, aproximando-se da ideia de nomus como unidade de sentido.
 
 **2. Universais, Abstrações e Realidade**  
@@ -75,3 +75,4 @@ Se nada mais existe, resta apenas eom (sum) e o lato nomial (cogito).
 - *Immanuel Kant*, “Fundamentação da Metafísica dos Costumes”: O respeito como princípio moral, tratar o outro sempre como fim.  
 - *Paul Ricoeur*, “Soi-même comme un autre”: A ética do respeito ao outro como constitutiva da identidade.
 
+Essas referências fundamentam o conceito jamista de nomus, mostrando que a ideia de unidade de informação, abstração, externalização e respeito dialoga com debates clássicos e contemporâneos da filosofia, ciência

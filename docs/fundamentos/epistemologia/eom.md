@@ -32,3 +32,25 @@ O pronome **“eu”**, psicológico, biográfico, social, cultural — **não �
 
 Paradoxalmente, essa ferramenta que ajuda eom a se organizar também pode impedir inúmeros alinhamentos. Ao assumir o eu biográfico como referência, eom se vê limitado a percursos, crenças, modelos, padrões e restrições que passam a conformar a mente biológica na qual ele se hospeda. Essa mente biológica, sendo moldada, condiciona os alinhamentos disponíveis, quais instâncias serão percebidas, quais experiências poderão ser instanciadas, quais possibilidades poderão ser externalizadas.
 
+---
+
+## Fundamentos e Referências
+
+**1. Consciência e Existência**
+
+- *René Descartes*, “Meditações Metafísicas” (1641): Formula o princípio “Cogito, ergo sum” (“Penso, logo existo”), estabelecendo a existência consciente como fundamento irrefutável.
+- *Edmund Husserl*, “Ideias para uma Fenomenologia Pura” (1913): A experiência da consciência de si como ponto de partida de toda reflexão filosófica.
+- *Jean-Paul Sartre*, “O Ser e o Nada” (1943): Explora a consciência como existência para si, radicalmente individual e intransferível.
+
+**2. Eu, Identidade e Primeira Pessoa**
+
+- *William James*, “The Principles of Psychology” (1890): Distingue entre o “eu” como sujeito da experiência e o “eu” como objeto de reflexão.
+- *Thomas Metzinger*, “The Ego Tunnel” (2009): O “eu” como construção fenomenológica, resultado de processos cognitivos e heurísticas do cérebro.
+- *Maurice Merleau-Ponty*, “Fenomenologia da Percepção” (1945): O corpo e a experiência vivida como fundamento da identidade e da subjetividade.
+
+**3. Limites do Eu e Paradoxo da Autorreferência**
+
+- *Ludwig Wittgenstein*, “Tractatus Logico-Philosophicus” (1921): Sobre os limites da linguagem e a impossibilidade de descrever o sujeito a partir de fora.
+- *Douglas Hofstadter*, “I Am a Strange Loop” (2007): O eu como um sistema autorreferente, que só pode ser compreendido a partir da própria perspectiva.
+
+Essas referências dialogam com o conceito de **eom** no jamismo, fundamentando a centralidade da experiência consciente, a singularidade da primeira pessoa e os limites de qualquer tentativa de
