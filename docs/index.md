@@ -3,10 +3,10 @@ Nossa civilização, desde seus registros mais antigos, desenvolve maneiras de t
 Para isso, surgiram mitologias, religiões, filosofias, ciências, artes, rituais, códigos, tradições, costumes e narrativas. Cada cultura, grupo ou geração constrói respostas que se acumulam, transformam, interligam, sobrepõem, complementam, contradizem e se multiplicam.
 
 O [**JAM — Jedaísmo Agnóstico Moderado**](jam/nome.md) oferece uma proposta moderada e divertida para estruturar algum entendimento sobre a existência.
-- A doutrina filosófica e espiritual do Jam é chamada de jamaísmo.
-- O seguidor do jamaísmo é um jamiota.
-- O disseminador dessa religião é denominado jameh.
-- O [**Livro de Apoio Religioso**](larjam.md) do JAM é o Larjam.
+  - A doutrina filosófica e espiritual do Jam é chamada de jamaísmo.
+  - O seguidor do jamaísmo é um jamiota.
+  - O disseminador dessa religião é denominado jameh.
+  - O [**Livro de Apoio Religioso**](larjam.md) do JAM é o Larjam.
 
 O JAM é uma religião, um método para criar códigos de valores, buscar sentidos, estruturar narrativas, oferecer referenciais de atitude e promover práticas de reflexão.
 
@@ -15,6 +15,7 @@ Essa religião atua como uma ferramenta de ordenamento, um conjunto de heurísti
 O JAM convida ao exercício permanente de observar o que existe, de considerar tudo que já foi pensado, sentido, imaginado ou registrado, e de buscar, com moderação, as conexões que oferecem sentido, orientação e coerência.
 
 Desse movimento surge a construção de ferramentas conceituais próprias, heurísticas (técnicas que conduzem à descoberta). Uma epistemologia composta de conceitos próprios, como:
+
 - [**Nomus**](fundamentos/epistemologia/nomus.md)
 - [**eom**](fundamentos/epistemologia/eom.md)
 - [**Alinhamento**](fundamentos/epistemologia/alinhamento.md)
