@@ -1,8 +1,6 @@
 # Referências Filosóficas no JAM
 
-## Introdução
-
-O JAM — Jedaísmo Agnóstico Moderado — reconhece, acolhe e incorpora todos os sistemas filosóficos, científicos, religiosos e culturais enquanto nomi. Assim como na busca pela Teoria de Tudo, o JAM busca a Religião de Todos. Valoriza todas as crenças, cosmovisões, epistemologias e ontologias, mesmo aquelas que se apresentam como adversárias entre si. Tudo é nomus. Tudo compõe o universo nomial. Nada está fora do lato nomial.
+O JAM — Jedaísmo Agnóstico Moderado — reconhece, acolhe e incorpora todos os sistemas filosóficos, científicos, religiosos e culturais. Assim como na busca pela Teoria de Tudo, o JAM busca a Religião de Todos. Valoriza todas as crenças, cosmovisões, epistemologias e ontologias, mesmo aquelas que se apresentam como adversárias entre si. Tudo é nomus. Tudo compõe o universo nomial. Nada está fora do lato nomial.
 
 ## 0. Filosofia da Antiguidade
 
