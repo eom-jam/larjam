@@ -17,11 +17,12 @@ O Larjam é um hipertexto que se organiza em temas bem diversificados, entre ele
 ## Princípios Fundamentais do Larjam
 
 - Respeito
-  - Todo ser merece respeito.
-  - O Jam acolhe todos os pensamentos, tradições, epistemologias e cosmovisões.  
-  - Nenhuma ideia, crença, ciência ou religião é proibida.  
+    - Todo ser merece respeito.
+    - O Jam acolhe todos os pensamentos, tradições, epistemologias e cosmovisões.  
+    - Nenhuma ideia, crença, ciência ou religião é proibida.  
+
 - Atitude
-  - O jamiota sempre procura fazer a coisa certa, a virtude.
-  - O jamismo estimula a tolerância e moderação
+    - O jamiota sempre procura fazer a coisa certa, a virtude.
+    - O jamismo estimula a tolerância e moderação
 
 O Larjam adota linguagem afirmativa, descritiva, substantiva e construtiva. A negação deve ser usada com parcimônia. 

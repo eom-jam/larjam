@@ -1,4 +1,14 @@
-Um nomus pode ser percebido pela mente em cada conformação que o cérebro adquire com sua sinapses, como uma luva que se encaixa em uma mão. A esse fenômeno, o jamismo denomina **alinhamento**.
+Imagine um fluido em um recipiente.
+As partículas desse fluido (moléculas de água) estão sempre em movimento aleatório, sem direção fixa, sem destino.
+Elas estão em todos os pontos ao mesmo tempo, com igual probabilidade.
+
+Assim são os nomi: presentes em toda parte, mas sem ação, intenção ou forma.
+Quando aparece um ralo — um evento, uma mente, um contexto específico —, todas as moléculas que por acaso colidirem com ele, passam a ter trajetória definida, entram em outro domínio.
+
+Esse momento é o **alinhamento**:
+um nomus deixa de ser apenas possibilidade e passa a atuar no universo material.
+
+Um nomus pode ser percebido pela mente em cada conformação que o cérebro adquire com sua sinapses, como uma luva que se encaixa em uma mão. 
 
 O que faz com que o cérebro adquira aquela conformação específica que possibilitou o alinhamento é um processo complexo para se compreender em sua totalidade, mas há heurísticas (técnicas que conduzem à descoberta) de ação externa conhecidas, como a comunicação, educação, cultura, violência, consumo de substâncias, entre outras formas de estímulo mental recebidos pelos sentidos.
 
@@ -21,6 +31,19 @@ Carl Gustav Jung define o inconsciente coletivo como um modelo que descreve cont
 Na pré-história esse instanciamento ocorria através de tradição oral, pela dança ou música, principalmente.
 
 Por definição, a história de uma civilização começa com a escrita. Então o nomus encontra uma forma mais eficaz de instanciamento externo.
+Passaram a habitar:
+
+-	Tábuas de argila
+-	Papiros
+-	Pergaminhos
+-	Manuscritos
+-	Livros impressos
+-	Discos magnéticos
+-	Arquivos digitais
+-	Memes de redes sociais
+
+Cada novo meio trouxe novas limitações e possibilidades.
+
  
 ---
 
