@@ -21,7 +21,7 @@ A segunda se configura como: **“mudanças existem e me alcançam por emaranham
 
 Estas duas expressões fundamentam a percepção da existência e da impermanência, cuja operacionalização emerge diretamente da estrutura emaranhada dos nomi que sustentam tanto o [eom](eom.md) quanto o universo perceptível.
 
-**O emaranhamento sustenta o próprio fenômeno da existência perceptiva.**
+"Uma boa metáfora não explica — ela revela um emaranhamento."
 
 ---
 

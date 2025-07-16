@@ -1,4 +1,4 @@
-**Nomus** designa uma unidade de informação, seja conceitual, simbólica ou estrutural. Todo conceito, ideia, percepção, símbolo, dado, padrão, identificável ou não, se configura como um nomus. Tudo é nomus, até o que não pode ser comprendido.
+**Nomus** designa uma unidade de informação, seja conceitual, simbólica ou estrutural. Todo conceito, ideia, percepção, símbolo, dado, padrão, identificável ou não, se configura como um nomus. Tudo é nomus, o que pode ser pensado ou até o que não pode ser comprendido.
 
 Seu plural é **nomi**. O adjetivo **nomial** define tudo aquilo que se refere a nomus. 
 
@@ -44,6 +44,40 @@ A existência de nomus não se subordina à existência de seres, de universos f
 Se existirem multiversos, vida após a morte, céu ou inferno, lá haverá nomus.
 
 Se nada mais existe, resta apenas eom (sum) e o lato nomial (cogito).
+
+## Nomus inacessível
+
+
+
+
+## Categorias dos nomi
+1.	Nomi latentes
+Aqueles que ainda não se manifestaram em nenhuma consciência. A telefonia celular foi um nomus que não tinha como se alinhar a nenhuma mente por quase toda a história da humanidade, mas estava aguardando. Evidentemente, não temos como saber de algum nomi latente, ou ele deixaria de sê-lo.
+
+2.	Nomi disponíveis
+São estruturalmente compatíveis com algum estado de consciência possível.
+Podem se alinhar. Podem ser descritos. Alguns já apareceram diversas vezes, com nomes e formas diferentes.
+Outros aguardam o próximo [alinhamento](alinhamento.md).
+
+3. Nomi falsos
+Para cada nomus que corresponde a um fato
+
+4.	Nomi inconcebíveis
+São nomi cuja estrutura é incompreensível a qualquer ser existente.
+Não por falta de esforço ou linguagem, mas por incompatibilidade total de estado.
+Esses nunca serão emitidos. São eternos e eternamente ausentes.
+
+Kant criou o termo númeno para se referir à coisa em si, ou seja, aquilo que existe independentemente da nossa percepção, uma realidade que está além da experiência sensível.
+
+Nós só temos acesso ao que ele chama de fenômenos: as coisas como elas nos aparecem.
+Já o númeno seria a coisa como ela é de verdade, mas inacessível. Nunca a conhecemos diretamente, só os efeitos dela no nosso campo perceptivo.
+
+- Fenômeno = o que vejo, ouço, percebo.
+- Númeno = o que a coisa é, independentemente de mim.
+
+Kant defende que a razão pura não pode alcançar o númeno. Ele pode até ser pensado, mas não conhecido. Isso marca uma fronteira da mente humana.
+
+O nomus não é uma coisa, mas uma narrativa, uma descrição da coisa, verdadeira ou falsa, completa ou imprecisa. Portanto, númeno não é um tipo de nomus, mas apenas um nomus. 
 
 ---
 
