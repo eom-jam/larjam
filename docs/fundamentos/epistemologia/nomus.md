@@ -45,11 +45,6 @@ Se existirem multiversos, vida após a morte, céu ou inferno, lá haverá nomus
 
 Se nada mais existe, resta apenas eom (sum) e o lato nomial (cogito).
 
-## Nomus inacessível
-
-
-
-
 ## Categorias dos nomi
 1.	Nomi latentes
 Aqueles que ainda não se manifestaram em nenhuma consciência. A telefonia celular foi um nomus que não tinha como se alinhar a nenhuma mente por quase toda a história da humanidade, mas estava aguardando. Evidentemente, não temos como saber de algum nomi latente, ou ele deixaria de sê-lo.
