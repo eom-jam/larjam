@@ -16,7 +16,6 @@ O Larjam está disponível em:
 
 ## 📖 Documentação
 
-- [📜 Código de Conduta](docs/conduta.md)
 - [🤝 Guia de Colaboração](docs/colaboracao.md)
 - [⚖️ Licença](docs/licenca.md)
 
@@ -74,7 +73,6 @@ larjam/
 │   │       ├── eom.md
 │   │       ├── nomus.md
 │   │       └── glossario.md
-│   ├── conduta.md              # Código de Conduta
 │   ├── colaboracao.md          # Guia de Colaboração
 │   ├── manifesto.md            # Como contribuir
 │   └── licenca.md
