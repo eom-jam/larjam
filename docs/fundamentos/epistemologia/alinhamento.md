@@ -8,7 +8,7 @@ Quando aparece um ralo — um evento, uma mente, um contexto específico —, to
 Esse momento é o **alinhamento**:
 um nomus deixa de ser apenas possibilidade e passa a atuar no universo material.
 
-Um nomus pode ser percebido pela mente em cada conformação que o cérebro adquire com sua sinapses, como uma luva que se encaixa em uma mão. 
+Um nomus pode ser percebido pela mente em cada conformação que o cérebro adquire com suas sinapses, como uma luva que se encaixa em uma mão. 
 
 O que faz com que o cérebro adquira aquela conformação específica que possibilitou o alinhamento é um processo complexo para se compreender em sua totalidade, mas há heurísticas (técnicas que conduzem à descoberta) de ação externa conhecidas, como a comunicação, educação, cultura, violência, consumo de substâncias, entre outras formas de estímulo mental recebidos pelos sentidos.
 

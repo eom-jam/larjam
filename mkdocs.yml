@@ -29,6 +29,7 @@ nav:
   - Jam: index.md
   - Larjam: larjam.md
   - Sobre:
+    - Manifesto jamista: manifesto.md
     - A religião:
       - Nome: jam/nome.md
       - Agnosticismo: jam/agnosticismo.md
@@ -38,6 +39,7 @@ nav:
       - eom: fundamentos/epistemologia/eom.md
       - Emaranhamento: fundamentos/epistemologia/emaranhamento.md
       - Alinhamento: fundamentos/epistemologia/alinhamento.md
+      - Xom: fundamentos/epistemologia/xom.md
   - Fundamentos:
     - Ciencia:
       - Forças: fundamentos/ciencia/forcas.md
@@ -49,13 +51,13 @@ nav:
       - Dinheiro: fundamentos/crencas/dinheiro.md
   - Composição:
     - Referências: 
-      - Filosofia: construcao/referencias_filosoficas.md
+      - Filosofia: construcao/referencias.md
       - Glossário: construcao/glossario.md
     - Como Contribuir: 
       - Manifesto: construcao/manifesto.md
       - Guia de colaboração: construcao/colaboracao.md
       - Licença: construcao/licenca.md
-
+    - Licença: construcao/licenca.md
 extra:
   social:
     - icon: fontawesome/brands/github

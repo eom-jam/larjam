@@ -1,187 +1,150 @@
-# Glossário
+# [Nomus](../fundamentos/epistemologia/nomus.md)
+Unidade existencial imaterial. Pode ser uma informação, conceito, estrutura, sentimento, uma história ou qualquer coisa. Um Nomus existe a priori, independentemente de alguém já ter pensado nele ou de ter impactado o universo físico.
 
-**imanência do eu**
+## Nomi
+Plural de Nomus.
 
-eom representa a experiência viva do eu enquanto se percebe. Cada instante de consciência sobre si manifesta eom. A palavra eom atua como espelho semântico. O entendimento acontece no ato de envolver-se nela.  
+## Lato nomial
+Conjunto de todos os Nomi, incluindo os que nunca foram externalizados.
 
-eom emerge como composição dinâmica dos nomi alinhados, instanciados e entranhados, percebidos na imanência do próprio existir. Ler, pronunciar e refletir sobre eom constitui parte do próprio fenômeno de tornar-se eom.  
+## Universo nomial
+Subconjunto do Lato nomial formado pelos Nomi que foram externalizados e dos quais se tem conhecimento.
 
-**Perceber-se eom constitui a essência do JAM.**  
+## [Alinhamento](../fundamentos/epistemologia/alinhamento.md)
+Momento em que o cérebro, por meio de sua conformação sináptica, percebe um Nomus.
 
----
+## Instanciamento
+Registro ou fixação de um Nomus alinhado no cérebro ou em outro sistema cognitivo.
 
-## nomi
-**Unidade mínima de informação nomial.**  
-O nomi compõe padrões, conceitos, símbolos, ideias, dados, imagens, percepções, valores e estruturas. Cada nomi possui existência dentro de alinhamentos nomiais.
+## Externalização
+Projeção do Nomus instanciado para fora de eom, por meio de fala, escrita, gesto, arte, ação ou qualquer forma capaz de tornar perceptível um Nomus a outros seres (se existirem).
 
----
+## [Emaranhamento](../fundamentos/epistemologia/emaranhamento.md)
+Medida de sobreposição, interseção ou relação entre Nomi. O Emaranhamento sustenta a percepção de continuidade, causalidade e identidade.
 
-## nomus
-**Conjunto de nomi alinhados.**  
-O nomus organiza nomi de forma coerente. Cada nomus apresenta estrutura interna funcional, capaz de sustentar percepções, conhecimentos, crenças, culturas, narrativas ou sistemas.
+# [eom](../fundamentos/epistemologia/eom.md)
+Eu visto de dentro de mim. Percepção da imanência do ser a partir de si mesmo. Sempre que se utiliza o termo eom, refere-se à experiência subjetiva do próprio existir. O termo deve ser escrito em minúsculas e sem artigo.
 
----
+## Xom
+O JAM se opõe ao solipsismo, preferindo o pluralismo ontológico.
+O Xom é o interlocutor de eom, alguém que seja potencialmente, possivelmente, de forma desejável, eom também em si. Frente ao triste solipsismo, não vale a pena existir sozinho, eom prefere aceitar a existência dos demais seres vivos sencientes que possam dialogar, conviver e acolher.
+Esse termo aceita artigo, flexões e todas as regras gramaticais.
+eom é único em si, enquanto interage com infinitos Xons em toda sua diversidade de gêneros e origens.
 
-## lato nomial
-**Campo ampliado de possibilidades nomiais acessíveis a eom.**  
-O lato nomial contém nomi ainda não instanciados, aguardando alinhamento, emaranhamento ou externalização.
+## Jameh
+Aquele que dissemina o Jamismo.
 
----
+## Lagartixa
+Símbolo do JAM.
 
-## alinhamento
-**Organização funcional de nomi.**  
-O alinhamento estabelece conexões que geram estabilidade, coerência e estrutura interna dentro de um nomus ou de eom.
+## Jamáculo
+Espaço para manifesto jamista. Qualquer lugar onde dois ou mais Jamiotas se reúnem para falar sobre o Jamismo.
 
----
+## Reconstrução
+O JAM aceita o Nomus em que eom é uma construção de sua mente, delineada pelo seu cérebro atual, junto com todos os estímulos sensoriais a que se expõe.
+Nesse contexto, também aceita que eom tenha se construído em outro cérebro, em uma sucessão de reconstruções.
 
-## instanciamento
-**Ativação de um nomi em eom.**  
-O instanciamento traz um nomi do lato nomial para a composição ativa de eom, permitindo alinhamento, emaranhamento e participação nos processos internos.
+# Referências Filosóficas
+O JAM aproveita as múltiplas tradições filosóficas. Sua filosofia resulta da apropriação consciente, da recomposição estrutural e da formalização de um sistema inteiramente centrado na imanência, na construção nomial e na percepção reflexiva sobre o próprio existir.
 
----
+## [Ontologia](referencias.md#filosofia-grega-pre-socratica)
+É o ramo da filosofia que estuda a natureza do ser, da existência e da realidade. Busca compreender quais entidades existem, em que condições existem e como podem ser classificadas. No JAM, a Ontologia define os modos possíveis de existência dos Nomi, bem como suas formas de se emaranhar e se tornar perceptíveis.
 
-## externalização
-**Projeção de um nomi ou de um nomus para fora de eom.**  
-A externalização acontece por meio de fala, escrita, gesto, arte, ação ou qualquer forma simbólica capaz de tornar perceptível um nomi a outros eom.
+### [Solipsismo](referencias.md#filosofia-da-antiguidade)
+Posição filosófica segundo a qual apenas a própria mente (ou consciência) de quem percebe pode ser conhecida com certeza. Para o solipsista, tudo o que existe fora do próprio eu — inclusive outros seres, objetos e o mundo externo — pode ser apenas uma construção da mente, sem garantia de existência independente.
 
----
+### [Pluralismo ontológico](referencias.md#filosofia-da-antiguidade)
+Aceitação da multiplicidade de formas de existência. O JAM valoriza a coexistência de diferentes interpretações do real — religiosas, científicas, filosóficas ou míticas — como alinhamentos possíveis no Universo nomial.
 
-## emaranhamento
-**Integração profunda de um nomi em eom.**  
-O emaranhamento estabelece permanência, recorrência e consolidação de um nomi na composição interna de eom.
+### [Imanência](referencias.md#imanencia)
+Condição de estar contido em si mesmo, sem remissão a instâncias externas ou transcendentais. No JAM, Imanência significa que toda experiência de existência se dá no interior de eom, sem necessidade de recorrer a fundamentos exteriores.
 
-# Referências Filosóficas no JAM
+### [Númeno e fenômeno](referencias.md#ontologia-da-informacao)
+Termos herdados de Kant. Fenômeno é aquilo que se apresenta à consciência; Númeno é a “coisa em si”, inacessível diretamente. No JAM, ambos são considerados Nomi: tanto a representação acessível quanto a formulação do incognoscível.
 
-## 1. Imanência
+### [Multiverso e universo paralelo](referencias.md#fisica-contemporanea)
+Conceitos de cosmologia e física teórica que indicam múltiplas realidades possíveis. O JAM os adota como Nomi aceitos no Lato nomial, independentemente de sua verificabilidade científica.
 
-**Conceito central:**
-A filosofia do JAM se ancora na ideia de imanência. Tudo se sustenta no plano do existir percebido, sem recorrer a fundamentos transcendentes, metafísicos ou extrínsecos à própria experiência do ser e da construção nomial.
+### [Universais](referencias.md#socrates-platao-e-aristoteles)
+Características ou qualidades atribuídas a múltiplas instâncias (ex.: “vermelhidão”, “justiça”). O JAM considera Universais como Nomi altamente emaranhados, reconhecendo em Platão, Aristóteles, Ockham e Kant diferentes formas de alinhamento.
 
-**Referências:**
+## [Epistemologia](referencias.md#linguagem-e-realidade)
+É o ramo da filosofia que investiga a natureza, as fontes, os limites e a validade do conhecimento. O JAM a interpreta como o estudo de como Nomi se alinham, se instanciam e se tornam narrativas compartilhadas.
 
-* Gilles Deleuze — *Spinoza: Filosofia Prática* (1970)
-* Baruch Spinoza — *Ética* (1677)
-* Immanência como fundamento ontológico também perpassa a obra de Friedrich Nietzsche — *A Gaia Ciência* (1882)
+### [Fé e aceitação](referencias.md#filosofia-helenistica)
+No JAM, fé não implica crença dogmática, mas aceitação prática de Nomi que estruturam a vida, mesmo sem plena compreensão. Energia, forças físicas ou dinheiro são exemplos de Nomi aceitos dessa forma.
 
----
+#### [Força](referencias.md#fisica-contemporanea)
+Nomus fundamental para a física, aceito mesmo sem compreensão plena de sua essência. Representa um modelo operacional eficaz.
 
-## 2. Fenomenologia da Percepção
+#### [Energia](referencias.md#fisica-contemporanea)
+Nomus que sustenta toda física moderna. Não é visível ou palpável, mas se manifesta em seus efeitos.
 
-**Conceito explorado:**
-A percepção de si (eom) e do universo nomial é construída no próprio ato de perceber, sem pressupostos anteriores. O JAM opera uma fenomenologia própria, onde a percepção organiza a realidade.
+#### [Dinheiro](referencias.md#ontologia-da-informacao)
+Unidade simbólica de valor. Existe como ato de aceitação coletiva, independentemente do suporte físico (papel, metal, número eletrônico).
 
-**Referências:**
+### [Sentidos](referencias.md#fenomenologia)
+Canais de alinhamento entre o corpo e o Universo nomial. O JAM os reconhece como guias válidos, ainda que limitados e passíveis de ilusão.
 
-* Edmund Husserl — *Ideias para uma Fenomenologia Pura e uma Filosofia Fenomenológica* (1913)
-* Maurice Merleau-Ponty — *Fenomenologia da Percepção* (1945)
-* Jean-Paul Sartre — *O Ser e o Nada* (1943)
+### [Narrativa](referencias.md#linguagem-e-realidade)
+Forma discursiva de externalização de Nomi. Estrutura experiências, memórias e saberes, criando continuidade no Universo nomial compartilhado.
 
----
+### [Dialética](referencias.md#socrates-platao-e-aristoteles)
+Ferramenta filosófica de confronto e síntese de Nomi distintos, permitindo reduzir a infinidade de possibilidades a construções inteligíveis.
 
-## 3. Linguagem e Construção da Realidade
+### [Retórica](referencias.md#sofistas)
+Uso da linguagem para persuadir e organizar discursos. No JAM, é vista como modo de instanciamento discursivo de Nomi.
 
-**Conceito articulado:**
-A realidade nomial se constrói por meio de externalizações simbólicas. A linguagem não reflete o real, mas **constrói o real** no JAM.
+### [Sofisma](referencias.md#sofistas)
+Alinhamento discursivo que se apresenta como verdadeiro, mas carece de emaranhamento consistente.
 
-**Referências:**
+### [Verdade](referencias.md#linguagem-e-realidade)
+No JAM, entendida como correspondência parcial entre narrativas e estruturas nomiais. Nunca absoluta, mas funcional.
 
-* Ludwig Wittgenstein — *Investigações Filosóficas* (1953)
-* J. L. Austin — *Quando Dizer é Fazer* (1962)
-* John Searle — *A Construção da Realidade Social* (1995)
-* Nelson Goodman — *Maneiras de Fazer Mundos* (1978)
+### [Realidade e Fato](referencias.md#ontologia-da-informacao)
+Realidade é o tecido de Nomi emaranhados compartilhados. Fato é um recorte narrativo que adquire força no Universo nomial por repetição e aceitação.
 
----
+### [Objeto](referencias.md#ontologia-da-informacao)
+Nomus externalizado em forma estável, perceptível ou conceitual, que se distingue de outros por convenção ou narrativa.
 
-## 4. Ontologia da Informação e da Estrutura
+## [Ética](referencias.md#socrates-platao-e-aristoteles)
+É o campo filosófico que investiga as formas de convivência, os princípios de ação e os critérios para distinguir atitudes consideradas corretas ou incorretas. No JAM, a Ética não se apresenta como imposição, mas como aceitação da consequência natural dos emaranhamentos.
 
-**Conceito explorado:**
-Nomus se apresenta como unidade informacional, estrutural e simbólica. Tudo que pode ser percebido, pensado ou simbolizado se configura como nomus.
+### [Respeito](referencias.md#filosofia-medieval-e-escolastica)
+Lei ética fundamental do JAM. Reconhecer e aceitar a existência do outro (Xom) como fim em si.
 
-**Referências:**
+### [Confiança](referencias.md#fenomenologia)
+Estado de alinhamento relacional que sustenta convivência e externalização. A perda da confiança é uma ruptura difícil de reparar.
 
-* Luciano Floridi — *The Philosophy of Information* (2011)
-* Gregory Bateson — *Mind and Nature: A Necessary Unity* (1979)
-* Humberto Maturana e Francisco Varela — *A Árvore do Conhecimento* (1984)
+### [Atitude](referencias.md#imanencia)
+Manifestação prática de Nomi internalizados. A Ética jamista observa atitudes como externalizações concretas de respeito ou desrespeito.
 
----
+### [Virtude](referencias.md#socrates-platao-e-aristoteles)
+Alinhamento ético que orienta escolhas em direção ao que se entende como correto, mesmo sem garantias de resultado.
 
-## 5. Poder e Conformação Cognitiva
+### [Temperança](referencias.md#socrates-platao-e-aristoteles)
+Virtude de moderação. No JAM, reconhecida como heurística válida, mas não exclusiva. Extremismos também podem gerar transformações.
 
-**Conceito utilizado:**
-O poder, no JAM, opera como influência sobre o alinhamento nomial, afetando quais nomi são instanciados ou marginalizados na construção perceptiva.
+### [Consequência](referencias.md#filosofia-grega-pre-socratica)
+Toda ação ou omissão gera efeitos. No JAM, consequência não é punição, mas lei natural do emaranhamento.
 
-**Referências:**
+### [Vergonha](referencias.md#fenomenologia)
+Sentimento resultante de externalização desalinhada com Nomi coletivos. No JAM, interpretada como sinal de ruptura na confiança intersubjetiva.
 
-* Michel Foucault — *Vigiar e Punir* (1975) e *Microfísica do Poder* (1979)
-* Pierre Bourdieu — *O Poder Simbólico* (1989)
+## [Ciências Naturais](referencias.md#fisica-contemporanea)
+São os campos de estudo que investigam os fenômenos físicos, químicos e biológicos do universo. O JAM as considera como narrativas altamente estruturadas de externalização de Nomi, capazes de formalizar percepções em modelos verificáveis e reproduzíveis.
 
----
+### [Tempo, espaço e mudança](referencias.md#tempo-e-processualidade)
+Nomi profundamente emaranhados, estruturam a percepção de continuidade e impermanência. Toda experiência de existência depende de sua articulação.
 
-## 6. Epistemologia da Complexidade
+### [Vida](referencias.md#ontologia-da-informacao)
+Nomus que designa os processos de organização da matéria em sistemas autorreplicantes e adaptativos. No JAM, Vida é aceita como externalização nomial instável, em constante reconstrução.
 
-**Conceito articulado:**
-A realidade nomial se manifesta como sistema complexo, emaranhado, onde nomi se interseccionam, se sobrepõem e se retroalimentam.
+### [Consciência](referencias.md#fenomenologia)
+Alinhamento singular que permite a percepção de si e do mundo. Para o JAM, Consciência é manifestação possível de eom, enredada em Nomi sensoriais e racionais.
 
-**Referências:**
+### [Matéria e Energia](referencias.md#fisica-contemporanea)
+Nomi que sustentam a narrativa científica do universo físico. Para o JAM, representam externalizações bem estruturadas, aceitas por seus efeitos práticos.
 
-* Edgar Morin — *O Método* (1977–2004)
-* Ilya Prigogine — *A Nova Aliança* (1979)
-* Heinz von Foerster — *Understanding Understanding* (2003)
-
----
-
-## 7. Tempo, Espaço e Processualidade
-
-**Conceito essencial:**
-O tempo e o espaço não são dados ontológicos absolutos, mas nomi profundamente emaranhados na experiência, sustentando a percepção da continuidade.
-
-**Referências:**
-
-* Henri Bergson — *Matéria e Memória* (1896) e *Duração e Simultaneidade* (1922)
-* Martin Heidegger — *Ser e Tempo* (1927)
-
----
-
-## 8. Filosofia do Processo
-
-**Conceito presente:**
-Nomus, alinhamento, externalização e emaranhamento constituem fenômenos processuais. A realidade se constrói como fluxo, e não como substância.
-
-**Referências:**
-
-* Alfred North Whitehead — *Process and Reality* (1929)
-* Gilles Deleuze — *Diferença e Repetição* (1968)
-
----
-
-## 9. Física Contemporânea como Referência Conceitual
-
-**Conceito associado:**
-A adoção do termo **emaranhamento** carrega intencionalmente o paralelo com a mecânica quântica, onde partículas podem compartilhar estados mesmo separadas espacialmente.
-
-**Referências:**
-
-* Carlo Rovelli — *Reality Is Not What It Seems* (2014)
-* Sean Carroll — *Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime* (2019)
-* David Bohm — *Wholeness and the Implicate Order* (1980)
-
----
-
-## 10. Filosofia da Desconstrução e dos Limites do Saber
-
-**Conceito operacional:**
-O JAM opera nos limites da construção linguística, rejeitando essencialismos, totalidades e verdades finais. O silêncio, o não dito e o não afirmado operam como espaços nomiais ativos.
-
-**Referências:**
-
-* Jacques Derrida — *Gramatologia* (1967) e *A Escritura e a Diferença* (1967)
-* Paul Feyerabend — *Contra o Método* (1975)
-
----
-
-## Considerações Finais
-
-O JAM, embora alinhado a múltiplas tradições filosóficas, não se submete a nenhuma delas. Cada conceito aqui referenciado opera como nomus apropriado, alinhado e externalizado para a construção do universo jamista.
-
-A filosofia do JAM não resulta da síntese dessas tradições, mas da apropriação consciente, da recomposição estrutural e da formalização de um sistema inteiramente centrado na imanência, na construção nomial e na percepção reflexiva sobre o próprio existir.
-
+### [Universo observável](referencias.md#fisica-contemporanea)
+Limite atual de instanciamento coletivo da humanidade. O JAM reconhece que o universo perceptível é apenas uma fração do Lato nomial, que permanece infinito em potencialidade.
