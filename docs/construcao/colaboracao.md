@@ -1,91 +1,53 @@
-# 🌐 Guia de Colaboração no Larjam
 
-Bem-vindo à colaboração no **Larjam — Livro de Apoio Religioso do JAM (Jedaísmo Agnóstico Moderado)**.
+# Guia de Colaboração no Larjam
 
-Este projeto é aberto, colaborativo e vive da contribuição de reflexões, textos e aprimoramentos da comunidade.
+Seja bem-vindo ao Larjam — Livro de Apoio Religioso do JAM (Jedaísmo Agnóstico Moderado). Este projeto é aberto à participação de todos que desejam contribuir para o desenvolvimento filosófico, estrutural e textual do JAM. Se você deseja se tornar um Jameh (disseminador do JAM), siga as orientações abaixo para participar de forma efetiva e construtiva.
 
----
 
-## 🚀 **Fluxo de Colaboração no GitHub**
+## Como colaborar com o Larjam
 
-1. 🔗 **Fork**
-   - Clique no botão **[Fork]** no canto superior direito da página do repositório.
-   - Isso cria uma cópia do projeto no seu próprio GitHub.
+O Larjam utiliza o GitHub como plataforma de colaboração. Siga o passo a passo para contribuir:
 
-2. 💻 **Clone o seu fork para sua máquina (opcional)**
+1. Faça um fork do repositório oficial do Larjam em sua conta do GitHub. Isso criará uma cópia do projeto para você.
+2. (Opcional) Clone o seu fork para sua máquina local utilizando o comando:
    ```bash
    git clone https://github.com/seu-usuario/larjam.git
    ```
-
-3. 🌿 **Crie uma nova branch**
+3. Crie uma nova branch para organizar suas contribuições:
    ```bash
    git checkout -b nome-da-sua-branch
    ```
-
-4. ✍️ **Faça suas alterações**
-   - Adicione, edite ou remova arquivos Markdown na pasta `/docs`.
-   - Se desejar, edite o `mkdocs.yml` para propor mudanças no menu ou na estrutura.
-
-5. ✅ **Commit e push**
+4. Realize as alterações desejadas. Você pode adicionar, editar ou remover arquivos Markdown na pasta `/docs`. Caso queira propor mudanças na navegação ou estrutura do site, edite também o arquivo `mkdocs.yml`.
+5. Salve e registre suas alterações com um commit:
    ```bash
    git add .
    git commit -m "Descrição clara das alterações"
    git push origin nome-da-sua-branch
    ```
+6. Acesse seu fork no GitHub e abra um Pull Request (PR) para o repositório original (`eom-jam/larjam`). Descreva claramente o que está propondo.
+7. Aguarde a revisão do mantenedor. Seu PR pode ser aceito, receber sugestões de ajustes ou ser recusado caso não esteja alinhado ao propósito do projeto.
 
-6. 🔀 **Abra um Pull Request (PR)**
-   - Acesse o seu fork no GitHub.
-   - Clique em **"Compare & pull request"**.
-   - Escreva uma descrição do que você está propondo.
-   - Envie o PR para o repositório original (`eom-jam/larjam`).
+### Alternativa: criação de uma ramificação 
 
-7. 🔍 **Revisão**
-   - O mantenedor do projeto irá revisar seu PR.
-   - Pode ser aceito (**Merge**), recusado (**Close**) ou receber comentários com sugestões.
+Se você deseja desenvolver uma linha própria a partir do JAM — seja para propor uma nova abordagem, filosofia, prática ou interpretação — também é possível criar uma ramificação independente.
 
----
+Basta fazer um fork do repositório e, em vez de abrir um Pull Request para o projeto original, seguir com o desenvolvimento do seu próprio projeto a partir daquele ponto. Assim, você pode estruturar, modificar e expandir livremente sua versão, dando origem a uma nova vertente baseada no JAM.
 
-## ✔️ **O que pode ser contribuído**
+## O que você pode contribuir
 
-- Novos textos, reflexões, fundamentos e caminhos filosóficos.
-- Expansões da teoria nomial, práticas jamistas e glossário.
-- Correções de erros gramaticais ou ortográficos.
-- Melhorias na navegação, no menu ou na estrutura do site.
-- Sugestões visuais, melhorias de layout ou design.
+- Novos textos, reflexões, fundamentos e caminhos filosóficos relacionados ao JAM.
+- Expansão da teoria nomial, práticas jamistas e glossário.
+- Correções ortográficas, gramaticais ou de clareza textual.
+- Melhorias na navegação, menu ou estrutura do site.
+- Sugestões de layout, design ou organização dos conteúdos.
 
----
+## Processo de decisão sobre contribuições
 
-## 🔐 **Decisão sobre Pull Requests**
+O mantenedor do projeto é responsável por analisar todas as contribuições. Ele pode aceitar, solicitar ajustes ou recusar propostas que não estejam de acordo com os princípios do JAM. Toda contribuição aprovada será registrada com o nome do colaborador, garantindo reconhecimento público.
 
-- O mantenedor do projeto tem autonomia para:
-   - Aceitar (**Merge**).
-   - Fechar (**Close**) se não estiver aderente ao propósito.
-   - Discutir e solicitar ajustes.
+## Sobre o Larjam e a filosofia JAM
 
-- Toda contribuição aprovada fica registrada com seu nome no histórico do projeto, garantindo reconhecimento público pela colaboração.
+O Larjam é um projeto em constante evolução, aberto a novas ideias e aprimoramentos. Tornar-se um Jameh é participar ativamente da construção coletiva deste organismo filosófico, contribuindo para o alinhamento e a expansão do JAM.
 
----
+Sua participação é enriquecedora para o crescimento e a vitalidade do Larjam.
 
-## 🧠 Diretrizes para contribuição:
-
-- ✅ Utilize linguagem formal, clara, moderada e equilibrada.
-- ✅ Respeite a estrutura do site e a organização dos conteúdos.
-- ✅ As contribuições podem incluir:
-  - Novas reflexões filosóficas.
-  - Ampliação ou refinamento dos fundamentos.
-  - Sugestões de novos caminhos, derivações ou bifurcações filosóficas.
-  - Melhorias na organização, estrutura ou navegação do site.
-  - Correções ortográficas, gramaticais ou de clareza textual.
-
-- ❌ Não são bem-vindas alterações que:
-  - Descaracterizem os fundamentos conceituais do JAM.
-  - Quebrem a navegação ou a integridade técnica do site.
-  - Sejam ofensivas, desrespeitosas ou contrárias ao espírito colaborativo.
-
-## ✨ Filosofia Viva
-
-O Larjam é, por natureza, um projeto em permanente construção. Toda contribuição é um ato de alinhamento, instanciamento e externalização de nomi no universo coletivo do JAM.
-
-Agradecemos por participar da evolução deste organismo filosófico.
-
-— JAM

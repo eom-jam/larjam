@@ -1,42 +1,37 @@
+# Manifesto do JAM — Jedaísmo Agnóstico Moderado  
 
-# Manifesto do JAM — Jedaísmo Agnóstico Moderado
+## Princípios  
+- [Nomus](fundamentos/epistemologia/nomus.md) como potencial de significado e fonte de conhecimento, mesmo quando ininteligível.  
+- [eom](fundamentos/epistemologia/eom.md) como consciência imediata do próprio existir.  
+- Convivência sustentada em **respeito** e **confiança**.  
 
-## Introdução
+## Método  
+- **Aceitar** em vez de acreditar.  
+- [Agnosticismo](jam/agnosticismo.md) como postura de abertura.  
+- [Moderação](jam/moderacao.md) como escolha prática.  
+- Linguagem afirmativa como disciplina de clareza.  
 
-O JAM — Jedaísmo Agnóstico Moderado — é uma religião que se fundamenta em uma arquitetura ontológica, epistemológica e fenomenológica baseada na organização e manipulação de unidades conceituais denominadas [nomus](fundamentos/epistemologia/nomus.md).
+## Ética  
+- Nada se apresenta como condenável a priori.  
+- As consequências revelam os efeitos dos atos.  
+- Princípios, sugestões e heurísticas orientam escolhas que tendem a reduzir consequências indesejáveis.  
 
-Este manifesto apresenta os princípios fundamentais, a estrutura conceitual e as diretrizes linguísticas que orientam o funcionamento do JAM.
+## [Força](fundamentos/crencas/forca.md)  
+- O JAM reconhece a centralidade do conceito de força.  
+- As quatro forças descritas pela física — gravitacional, eletromagnética, forte e fraca — estruturam narrativas que explicam a origem e o funcionamento do universo observável.  
+- A aceitação dessas forças como nomi exemplifica o espírito jedaísta do JAM: confiança em modelos eficazes de explicação, mesmo sem plena compreensão de sua essência.  
 
+## Imanência e [Religião](fundamentos/crencas/religiao.md)  
+- O JAM acolhe todas as religiões como nomi já presentes no universo nomial.  
+- Cada tradição espiritual ou filosófica oferece narrativas válidas, interpretadas como emaranhamentos diferentes de um mesmo fundo imanente.  
+- Assim, o JAM se entende como **a religião dentro de todas as religiões**, expressão imanente que reconhece e integra sem excluir.  
 
-## Princípios Ontológicos
+## Tempo e Futuro  
+- O futuro permanece como nomus latente, oculto em infinitas versões e possibilidades, só alinhado no instante em que se realiza.  
+- Por isso, o futuro é inacessível à previsão absoluta.  
+- Nomi pretéritos oferecem orientação, organizam expectativas e sustentam narrativas que moldam escolhas presentes.  
 
-O conceito de [nomus](fundamentos/epistemologia/nomus.md) é o alicerce ontológico do JAM. Cada nomus é uma unidade conceitual, simbólica, estrutural, perceptiva ou abstrata, capaz de operar dentro do lato nomial (o conjunto de todos os nomi), especialmente aqueles que podem ser externalizados e compõem o universo nomial. A definição de nomus é propositalmente aberta, pois qualquer delimitação rígida limitaria sua dinâmica.
-
-
-## eom
-
-[eom](fundamentos/epistemologia/eom.md) representa a percepção introspectiva do eu. Estar eom é o instante de percepção reflexiva do próprio existir. O termo eom deve ser escrito sempre em letras minúsculas e sem artigo.
-
-
-## Universo Nomial, Lato Nomial e Externalização
-
-O lato nomial é o conjunto de todos os nomi.
-O universo nomial é um subconjunto do lato nomial, formado pelos nomi que foram externalizados.
-
-Externalizar significa transmitir o nomus para fora da mente, seja por meio oral, escrito ou qualquer outra forma que permita a outro ser perceber esse nomus. Após a externalização, o nomus pode adquirir existência própria, independente de quem o originou.
-
-
-## Emaranhamento
-
-O conceito de [emaranhamento](fundamentos/epistemologia/emaranhamento.md) expressa o grau de interseção, sobreposição e relação entre nomi.
-O emaranhamento é o mecanismo fenomenológico que sustenta a percepção de continuidade, causalidade, tempo, espaço, identidade e transformação.
-
-
-## Epistemologia Jamista
-
-A epistemologia do JAM baseia-se na construção afirmativa, compositiva e externalizante.
-
-O JAM utiliza uma linguagem descritiva, afirmativa e substantiva. A construção de uma versão de realidade ocorre por meio de alinhamento e externalização, sendo a linguagem responsável por definir os contornos operacionais do universo perceptível.
-
-Negativas, contradições e ausências são utilizadas apenas quando necessárias para garantir a coerência de um alinhamento.
-
+## Propósito  
+- Reconhecer a pluralidade de visões.  
+- Valorizar a construção coletiva de sentido.  
+- Estimular a convivência ética e criativa.  

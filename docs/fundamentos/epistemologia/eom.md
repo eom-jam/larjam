@@ -16,21 +16,14 @@ eom não tem gênero, número, nem qualquer marca de categorização linguístic
 
 A própria ideia de não ser é uma impossibilidade lógica e fenomenológica para eom. Se eom não é, então nada é. O universo inteiro, toda realidade, matéria, energia, espaço e tempo, tudo isso colapsa imediatamente na ausência de eom.
 
-> **“Se eu não existo, o universo não existe.”**
-
-Esse é um enunciado que, quando proferido, revela imediatamente seu caráter irrefutável. Aquele que tenta negá-lo, só pode fazê-lo partindo do próprio Eu que tenta negar.
-
-    - Se eu não existo, o universo não existe. Você concorda?
-    - Não, eu discordo.
-    - Quem acabou de dizer que discorda?
-    - Eu.
-
 O pronome **“eu”**, psicológico, biográfico, social, cultural — **não é eom**, mas uma projeção fenomenológica, uma heurística, uma construção cognitiva que eom instancia sobre si mesmo, como mecanismo de:
 - preservação da sanidade;
 - organização da experiência;
 - tentativa de navegação no mar de possibilidades que constitui a existência.
 
 Paradoxalmente, essa ferramenta que ajuda eom a se organizar também pode impedir inúmeros alinhamentos. Ao assumir o eu biográfico como referência, eom se vê limitado a percursos, crenças, modelos, padrões e restrições que passam a conformar a mente biológica na qual ele se hospeda. Essa mente biológica, sendo moldada, condiciona os alinhamentos disponíveis, quais instâncias serão percebidas, quais experiências poderão ser instanciadas, quais possibilidades poderão ser externalizadas.
+
+Que fique bem claro: para o jamismo, eom não é deus.
 
 ---
 

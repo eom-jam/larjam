@@ -37,7 +37,7 @@ Sem emaranhamento, cada instante perceptivo surgiria como evento isolado e efêm
 Talvez a primeira afirmação nomial se estabeleça como: **"existo"**.  
 A segunda afirmação, igualmente fundamental, se expressa como: **"mudanças existem e me alcançam por emaranhamento."**
 
-O tempo e o espaço operam como nomi profundamente entranhados em todas as experiências e alinhamentos possíveis.
+O tempo e o espaço operam como nomi profundamente emaranhados em todas as experiências e alinhamentos possíveis.
 
 ## Epistemologia Jamista
 
