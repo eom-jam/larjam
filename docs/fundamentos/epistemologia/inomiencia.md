@@ -1,0 +1,19 @@
+Certos fenômenos produzem efeitos cuja escala parece incompatível com a capacidade de qualquer pessoa isolada. Uma declaração altera mercados financeiros em diversos continentes. Uma ideia modifica costumes durante séculos. Uma religião sobrevive à morte de seus fundadores. Uma língua continua evoluindo sem qualquer autoridade central. Empresas, universidades, Estados, escolas filosóficas e movimentos culturais frequentemente apresentam continuidade, adaptação e capacidade de mobilização que ultrapassam a soma das pessoas que os constituem em determinado momento.
+
+A linguagem cotidiana costuma tratar esses fenômenos como se possuíssem comportamento próprio. Afirma-se que o mercado reagiu, que a ciência mudou de opinião, que uma religião expandiu-se, que uma empresa decidiu ou que uma tradição resistiu ao tempo. Embora tais expressões sejam figuradas, elas frequentemente organizam melhor a compreensão desses fenômenos do que descrições estritamente individuais.
+
+O JAM propõe denominar **inomiência** a heurística destinada ao estudo desse tipo de fenômeno.
+
+A inomiência não constitui uma afirmação ontológica. Não pressupõe que o fenômeno seja senciente, possua eom ou exista como organismo independente. Trata-se de um modelo de análise cuja finalidade consiste em organizar observações, formular explicações e produzir previsões. Sua utilidade decorre da capacidade de ampliar a compreensão do fenômeno estudado e de orientar decisões diante dele.
+
+A delimitação de uma inomiência depende do contexto e do objetivo da investigação. Um mesmo fenômeno pode ser analisado como uma única inomiência ou como diversas inomiências relacionadas, conforme a abordagem adotada produza maior capacidade explicativa. Seus limites não são fixos nem pretendem constituir classificação definitiva.
+
+As inomiências manifestam-se por meio de externalizações de nomi, mas não se confundem com elas. Também não correspondem ao emaranhamento entre nomi. Externalizações e emaranhamentos constituem parte do fenômeno observado; a inomiência corresponde ao modelo utilizado para compreender sua dinâmica.
+
+Algumas inomiências apresentam elevada continuidade histórica, preservando identidade mesmo após sucessivas substituições de pessoas e instituições. Outras desaparecem rapidamente. Algumas mobilizam recursos materiais, conhecimento, tecnologia e trabalho em escala suficiente para alterar significativamente o universo material. Outras permanecem restritas a pequenos grupos. Essas diferenças podem futuramente fundamentar classificações ou escalas, sem constituírem elementos definidores do conceito.
+
+A principal motivação para o estudo das inomiências consiste na possibilidade de compreender como determinadas abstrações conseguem produzir consequências materiais de grande magnitude. A heurística procura responder por que alguns fenômenos persistem, adaptam-se, competem, cooperam, fragmentam-se ou desaparecem; por que alguns mobilizam milhões de pessoas enquanto outros permanecem irrelevantes; e por que determinadas ideias alteram profundamente a história enquanto outras desaparecem sem deixar vestígios.
+
+Religiões, mercados, empresas, universidades, Estados, sistemas jurídicos, línguas, movimentos culturais, redes sociais e escolas filosóficas constituem exemplos de fenômenos que podem ser estudados como inomiências, sempre que essa abordagem ampliar a compreensão e a capacidade preditiva da análise.
+
+Como toda heurística jamiota, a inomiência permanece aberta à revisão. Seu valor não decorre de corresponder exatamente à realidade, mas de produzir modelos mais úteis para compreender fenômenos complexos e orientar ações de preservação, fortalecimento, transformação, cooperação ou oposição.

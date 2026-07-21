@@ -26,10 +26,16 @@ Medida de sobreposição, interseção ou relação entre Nomi. O Emaranhamento 
 Eu visto de dentro de mim. Percepção da imanência do ser a partir de si mesmo. Sempre que se utiliza o termo eom, refere-se à experiência subjetiva do próprio existir. O termo deve ser escrito em minúsculas e sem artigo.
 
 ## Xom
-O JAM se opõe ao solipsismo, preferindo o pluralismo ontológico.
+O JAM parte da premissa do pluralismo ontológico e eom aceita a existência de Xons como hipótese preferível ao solipsismo.
 O Xom é o interlocutor de eom, alguém que seja potencialmente, possivelmente, de forma desejável, eom também em si. Frente ao triste solipsismo, não vale a pena existir sozinho, eom prefere aceitar a existência dos demais seres vivos sencientes que possam dialogar, conviver e acolher.
 Esse termo aceita artigo, flexões e todas as regras gramaticais.
 eom é único em si, enquanto interage com infinitos Xons em toda sua diversidade de gêneros e origens.
+
+## Inomiência
+
+Inomiência é um modelo heurístico proposto pelo JAM para representar fenômenos cuja dinâmica aparente se assemelha à de organismos, permitindo organizar observações, formular explicações e produzir previsões sobre sua evolução e seus efeitos no universo material.
+
+A utilidade de uma inomiência não está em descrever corretamente um fenômeno, mas em produzir explicações e previsões melhores do que outras formas de descrevê-lo.
 
 ## Jameh
 Aquele que dissemina o Jamismo.
@@ -43,6 +49,52 @@ Espaço para manifesto jamista. Qualquer lugar onde dois ou mais Jamiotas se re�
 ## Reconstrução
 O JAM aceita o Nomus em que eom é uma construção de sua mente, delineada pelo seu cérebro atual, junto com todos os estímulos sensoriais a que se expõe.
 Nesse contexto, também aceita que eom tenha se construído em outro cérebro, em uma sucessão de reconstruções.
+
+# Gramática Jamiota
+
+A Gramática Jamiota estabelece o significado de alguns verbos e substantivos fundamentais do JAM. Seu objetivo é preservar a coerência epistemológica da filosofia, evitando que diferentes graus de conhecimento sejam confundidos.
+
+## Premissa
+
+Ponto de partida adotado para desenvolver um raciocínio, independentemente de sua demonstração.
+
+Uma premissa não pretende descrever a realidade, mas fornecer uma base consistente para reflexão e construção de modelos.
+
+O JAM parte de diversas premissas. eom também pode adotar premissas para orientar seu pensamento.
+
+## Presunção
+
+Hipótese considerada provisoriamente válida por oferecer elevada capacidade explicativa frente às observações disponíveis.
+
+Toda presunção permanece aberta à revisão sempre que novos alinhamentos ou externalizações a tornem menos consistente.
+
+## Aceitação
+
+Postura prática de eom ou do JAM diante de uma premissa ou presunção.
+
+Aceitar não significa possuir certeza nem declarar uma verdade. Significa apenas adotar determinada compreensão como suficiente para orientar pensamentos, decisões ou ações.
+
+A aceitação pode ser revista a qualquer momento.
+
+## Dúvida
+
+Reconhecimento explícito dos limites do conhecimento.
+
+No JAM, a dúvida não representa fraqueza nem falha de raciocínio. Ela constitui uma consequência natural da imanência de eom e da impossibilidade de observar diretamente aquilo que está além de sua própria experiência.
+
+A dúvida pode coexistir com premissas, presunções e aceitações.
+
+## Negação
+
+Recusa consciente de uma premissa, presunção ou aceitação por considerá-la incompatível com os alinhamentos disponíveis.
+
+Toda negação permanece igualmente sujeita à revisão.
+
+## Revisão
+
+Disposição permanente para modificar premissas, presunções e aceitações diante de novos nomi, novos alinhamentos ou melhor compreensão dos já conhecidos.
+
+A revisão não representa erro, mas amadurecimento epistemológico.
 
 # Referências Filosóficas
 O JAM aproveita as múltiplas tradições filosóficas. Sua filosofia resulta da apropriação consciente, da recomposição estrutural e da formalização de um sistema inteiramente centrado na imanência, na construção nomial e na percepção reflexiva sobre o próprio existir.
@@ -70,9 +122,6 @@ Características ou qualidades atribuídas a múltiplas instâncias (ex.: “ver
 
 ## [Epistemologia](referencias.md#linguagem-e-realidade)
 É o ramo da filosofia que investiga a natureza, as fontes, os limites e a validade do conhecimento. O JAM a interpreta como o estudo de como Nomi se alinham, se instanciam e se tornam narrativas compartilhadas.
-
-### [Fé e aceitação](referencias.md#filosofia-helenistica)
-No JAM, fé não implica crença dogmática, mas aceitação prática de Nomi que estruturam a vida, mesmo sem plena compreensão. Energia, forças físicas ou dinheiro são exemplos de Nomi aceitos dessa forma.
 
 #### [Força](referencias.md#fisica-contemporanea)
 Nomus fundamental para a física, aceito mesmo sem compreensão plena de sua essência. Representa um modelo operacional eficaz.
