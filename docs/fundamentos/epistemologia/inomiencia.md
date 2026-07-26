@@ -31,9 +31,8 @@ Essa comparação possui caráter heurístico. A inomiência contém significado
 
 Como toda heurística jamiota, a inomiência permanece aberta à revisão. Seu valor decorre da capacidade de produzir modelos úteis para compreender fenômenos complexos e orientar ações diante deles.
 
-## Desenvolvimento do conceito
-
-- [Dinâmica das inomiências](inomiencia/dinamica.md)
-- [Taxonomia das inomiências](inomiencia/taxonomia.md)
-- [Diagnóstico e previsão](inomiencia/diagnostico.md)
-- [Prescrição, profilaxia e intervenção](inomiencia/intervencao.md)
+A inomiência pode ser comprendida em deiversos aspectos:
+- [Dinâmica](inomiencia/dinamica.md) - Como ela se dissemina
+- [Taxonomia](inomiencia/taxonomia.md) - uma classificação quanto à sua natureza
+- [Diagnóstico](inomiencia/diagnostico.md) - como identificar
+- [Intervenção](inomiencia/intervencao.md) - Prescrição, profilaxia e ação
