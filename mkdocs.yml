@@ -39,7 +39,12 @@ nav:
       - eom: fundamentos/epistemologia/eom.md
       - Emaranhamento: fundamentos/epistemologia/emaranhamento.md
       - Alinhamento: fundamentos/epistemologia/alinhamento.md
-      - Inomiência: fundamentos/epistemologia/inomiencia.md
+      - Inomiência: 
+        - Conceito: fundamentos/epistemologia/inomiencia.md
+        - Dinâmica: fundamentos/epistemologia/inomiencia/dinamica.md
+        - Taxonomia: fundamentos/epistemologia/inomiencia/taxonomia.md
+        - Diagnóstico: fundamentos/epistemologia/inomiencia/diagnostico.md
+        - Prescrição: fundamentos/epistemologia/inomiencia/intervencao.md
       - Xom: fundamentos/epistemologia/xom.md
   - Fundamentos:
     - Ciencia:
